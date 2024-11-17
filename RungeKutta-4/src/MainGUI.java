@@ -25,7 +25,7 @@ public class MainGUI {
         frame.setSize(600, 400);
 
         JPanel panel = new JPanel();
-        panel.setLayout(new GridLayout(7, 2));
+        panel.setLayout(new GridLayout(8, 2)); // Ajustado para incluir os botões de função
 
         JLabel x0Label = new JLabel("Valor inicial de x0:");
         JTextField x0Field = new JTextField();
@@ -52,6 +52,11 @@ public class MainGUI {
         JScrollPane scrollPane = new JScrollPane(table);
         scrollPane.setPreferredSize(new Dimension(500, 200));
 
+        // Botões para fórmulas específicas
+        JButton eulerButton = new JButton("f(x, y) = e^y");
+        JButton lnButton = new JButton("f(x, y) = ln(x + y)");
+        JButton sinButton = new JButton("f(x, y) = sin(x) + cos(y)");
+
         panel.add(x0Label);
         panel.add(x0Field);
         panel.add(y0Label);
@@ -64,6 +69,9 @@ public class MainGUI {
         panel.add(formulaField);
         panel.add(calculateButton);
         panel.add(scrollPane);
+        panel.add(eulerButton);
+        panel.add(lnButton);
+        panel.add(sinButton);
 
         frame.getContentPane().add(panel, BorderLayout.CENTER);
         frame.setVisible(true);
@@ -92,6 +100,28 @@ public class MainGUI {
                 } catch (IllegalArgumentException ex) {
                     JOptionPane.showMessageDialog(frame, "Erro: Fórmula inválida. Verifique a sintaxe.", "Erro", JOptionPane.ERROR_MESSAGE);
                 }
+            }
+        });
+
+        // Ações dos botões de fórmulas específicas
+        eulerButton.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent e) {
+                formulaField.setText("exp(y)"); // Inserir f(x, y) = e^y
+            }
+        });
+
+        lnButton.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent e) {
+                formulaField.setText("log(x + y)"); // Inserir f(x, y) = ln(x + y)
+            }
+        });
+
+        sinButton.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent e) {
+                formulaField.setText("sin(x) + cos(y)"); // Inserir f(x, y) = sin(x) + cos(y)
             }
         });
     }
