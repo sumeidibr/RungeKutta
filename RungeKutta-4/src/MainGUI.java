@@ -25,7 +25,7 @@ public class MainGUI {
         frame.setSize(600, 400);
 
         JPanel panel = new JPanel();
-        panel.setLayout(new GridLayout(8, 2)); // Ajustado para incluir os botões de função
+        panel.setLayout(new GridLayout(10, 2)); // Ajustado para incluir os botões de função
 
         JLabel x0Label = new JLabel("Valor inicial de x0:");
         JTextField x0Field = new JTextField();
@@ -57,6 +57,14 @@ public class MainGUI {
         JButton lnButton = new JButton("f(x, y) = ln(x + y)");
         JButton sinButton = new JButton("f(x, y) = sin(x) + cos(y)");
 
+        // Botões para as novas funções matemáticas
+        JButton arcsinButton = new JButton("f(x, y) = arcsin(x)");
+        JButton arctanButton = new JButton("f(x, y) = arctan(x)");
+        JButton squareButton = new JButton("f(x, y) = x^2");
+        JButton sqrtButton = new JButton("f(x, y) = sqrt(x)");
+        JButton secButton = new JButton("f(x, y) = sec(x)");
+        JButton cscButton = new JButton("f(x, y) = csc(x)");
+
         panel.add(x0Label);
         panel.add(x0Field);
         panel.add(y0Label);
@@ -72,6 +80,14 @@ public class MainGUI {
         panel.add(eulerButton);
         panel.add(lnButton);
         panel.add(sinButton);
+
+        // Adicionando os novos botões à interface
+        panel.add(arcsinButton);
+        panel.add(arctanButton);
+        panel.add(squareButton);
+        panel.add(sqrtButton);
+        panel.add(secButton);
+        panel.add(cscButton);
 
         frame.getContentPane().add(panel, BorderLayout.CENTER);
         frame.setVisible(true);
@@ -122,6 +138,49 @@ public class MainGUI {
             @Override
             public void actionPerformed(ActionEvent e) {
                 formulaField.setText("sin(x) + cos(y)"); // Inserir f(x, y) = sin(x) + cos(y)
+            }
+        });
+
+        // Ações para os novos botões de funções matemáticas
+        arcsinButton.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent e) {
+                formulaField.setText("asin(x)"); // Inserir f(x, y) = arcsin(x)
+            }
+        });
+
+        arctanButton.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent e) {
+                formulaField.setText("atan(x)"); // Inserir f(x, y) = arctan(x)
+            }
+        });
+
+        squareButton.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent e) {
+                formulaField.setText("x^2"); // Inserir f(x, y) = x^2
+            }
+        });
+
+        sqrtButton.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent e) {
+                formulaField.setText("sqrt(x)"); // Inserir f(x, y) = sqrt(x)
+            }
+        });
+
+        secButton.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent e) {
+                formulaField.setText("1/cos(x)"); // Inserir f(x, y) = sec(x)
+            }
+        });
+
+        cscButton.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent e) {
+                formulaField.setText("1/sin(x)"); // Inserir f(x, y) = csc(x)
             }
         });
     }
