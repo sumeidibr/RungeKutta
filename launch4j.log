@@ -1,0 +1,770 @@
+
+
+Version:	3.50
+CmdLine:	C:\Users\$umeid_ibr\Documents\JAVA_REPOSITORIO\RungeKutta\apo.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\$umeid_ibr\Documents\JAVA_REPOSITORIO\RungeKutta\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.008.000
+Java max ver:	1.011.000
+Substitute:	JAVA_HOME = C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin;C:\DEVELOPMENT\TOOLS\MAVEN\apache-maven-3.9.0\bin;C:\Program Files\Git\cmd;C:\DEVELOPMENT\platform-tools_r34.0.5-windows (2)\platform-tools;C:\Users\$umeid_ibr\AppData\Local\Microsoft\WindowsApps;C:\Users\$umeid_ibr\AppData\Local\GitHubDesktop\bin;C:\Users\$umeid_ibr\AppData\Local\Programs\Microsoft VS Code\bin;C:\adb;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Go\bin;C:\wamp64\bin\php\php8.2.0;C:\ProgramData\ComposerSetup\bin;C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\$umeid_ibr\AppData\Local\Programs\Python\Launcher\;C:\Users\$umeid_ibr\AppData\Roaming\npm;C:\Users\$umeid_ibr\go\bin;C:\Users\$umeid_ibr\AppData\Roaming\Composer\vendor\bin;C:\Program Files (x86)\Nmap;C:\Users\$umeid_ibr\AppData\Local\Microsoft VS Code\bin;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin
+JRE paths:	C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin;C:\DEVELOPMENT\TOOLS\MAVEN\apache-maven-3.9.0\bin;C:\Program Files\Git\cmd;C:\DEVELOPMENT\platform-tools_r34.0.5-windows (2)\platform-tools;C:\Users\$umeid_ibr\AppData\Local\Microsoft\WindowsApps;C:\Users\$umeid_ibr\AppData\Local\GitHubDesktop\bin;C:\Users\$umeid_ibr\AppData\Local\Programs\Microsoft VS Code\bin;C:\adb;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Go\bin;C:\wamp64\bin\php\php8.2.0;C:\ProgramData\ComposerSetup\bin;C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\$umeid_ibr\AppData\Local\Programs\Python\Launcher\;C:\Users\$umeid_ibr\AppData\Roaming\npm;C:\Users\$umeid_ibr\go\bin;C:\Users\$umeid_ibr\AppData\Roaming\Composer\vendor\bin;C:\Program Files (x86)\Nmap;C:\Users\$umeid_ibr\AppData\Local\Microsoft VS Code\bin;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin
+Check launcher:	C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin\javaw.exe (OK)
+Version string: 1.008.000_351 / 64-Bit (OK)
+Heap -Xms:	Requested 50 MB / 0%, Available: 853 MB, Heap size: 50 MB
+Heap -Xmx:	Requested 90 MB / 0%, Available: 853 MB, Heap size: 90 MB
+Launcher:	C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin\javaw.exe
+Launcher args:	-Xms50m -Xmx90m -Xms512m,  -Xmx1024m -jar "C:\Users\$umeid_ibr\Documents\JAVA_REPOSITORIO\RungeKutta\apo.exe"
+Args length:	109/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\$umeid_ibr\Documents\JAVA_REPOSITORIO\RungeKutta\apo.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\$umeid_ibr\Documents\JAVA_REPOSITORIO\RungeKutta\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.008.000
+Java max ver:	1.011.000
+Substitute:	JAVA_HOME = C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin;C:\DEVELOPMENT\TOOLS\MAVEN\apache-maven-3.9.0\bin;C:\Program Files\Git\cmd;C:\DEVELOPMENT\platform-tools_r34.0.5-windows (2)\platform-tools;C:\Users\$umeid_ibr\AppData\Local\Microsoft\WindowsApps;C:\Users\$umeid_ibr\AppData\Local\GitHubDesktop\bin;C:\Users\$umeid_ibr\AppData\Local\Programs\Microsoft VS Code\bin;C:\adb;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Go\bin;C:\wamp64\bin\php\php8.2.0;C:\ProgramData\ComposerSetup\bin;C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\$umeid_ibr\AppData\Local\Programs\Python\Launcher\;C:\Users\$umeid_ibr\AppData\Roaming\npm;C:\Users\$umeid_ibr\go\bin;C:\Users\$umeid_ibr\AppData\Roaming\Composer\vendor\bin;C:\Program Files (x86)\Nmap;C:\Users\$umeid_ibr\AppData\Local\Microsoft VS Code\bin;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin
+JRE paths:	C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin;C:\DEVELOPMENT\TOOLS\MAVEN\apache-maven-3.9.0\bin;C:\Program Files\Git\cmd;C:\DEVELOPMENT\platform-tools_r34.0.5-windows (2)\platform-tools;C:\Users\$umeid_ibr\AppData\Local\Microsoft\WindowsApps;C:\Users\$umeid_ibr\AppData\Local\GitHubDesktop\bin;C:\Users\$umeid_ibr\AppData\Local\Programs\Microsoft VS Code\bin;C:\adb;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Go\bin;C:\wamp64\bin\php\php8.2.0;C:\ProgramData\ComposerSetup\bin;C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\$umeid_ibr\AppData\Local\Programs\Python\Launcher\;C:\Users\$umeid_ibr\AppData\Roaming\npm;C:\Users\$umeid_ibr\go\bin;C:\Users\$umeid_ibr\AppData\Roaming\Composer\vendor\bin;C:\Program Files (x86)\Nmap;C:\Users\$umeid_ibr\AppData\Local\Microsoft VS Code\bin;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin
+Check launcher:	C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin\javaw.exe (OK)
+Version string: 1.008.000_351 / 64-Bit (OK)
+Heap -Xms:	Requested 50 MB / 0%, Available: 810 MB, Heap size: 50 MB
+Heap -Xmx:	Requested 90 MB / 0%, Available: 810 MB, Heap size: 90 MB
+Launcher:	C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin\javaw.exe
+Launcher args:	-Xms50m -Xmx90m -Xms512m,  -Xmx1024m -jar "C:\Users\$umeid_ibr\Documents\JAVA_REPOSITORIO\RungeKutta\apo.exe"
+Args length:	109/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\$umeid_ibr\Documents\JAVA_REPOSITORIO\RungeKutta\apo.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\$umeid_ibr\Documents\JAVA_REPOSITORIO\RungeKutta\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.008.000
+Java max ver:	1.011.000
+Substitute:	JAVA_HOME = C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin;C:\DEVELOPMENT\TOOLS\MAVEN\apache-maven-3.9.0\bin;C:\Program Files\Git\cmd;C:\DEVELOPMENT\platform-tools_r34.0.5-windows (2)\platform-tools;C:\Users\$umeid_ibr\AppData\Local\Microsoft\WindowsApps;C:\Users\$umeid_ibr\AppData\Local\GitHubDesktop\bin;C:\Users\$umeid_ibr\AppData\Local\Programs\Microsoft VS Code\bin;C:\adb;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Go\bin;C:\wamp64\bin\php\php8.2.0;C:\ProgramData\ComposerSetup\bin;C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\$umeid_ibr\AppData\Local\Programs\Python\Launcher\;C:\Users\$umeid_ibr\AppData\Roaming\npm;C:\Users\$umeid_ibr\go\bin;C:\Users\$umeid_ibr\AppData\Roaming\Composer\vendor\bin;C:\Program Files (x86)\Nmap;C:\Users\$umeid_ibr\AppData\Local\Microsoft VS Code\bin;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin
+JRE paths:	C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin;C:\DEVELOPMENT\TOOLS\MAVEN\apache-maven-3.9.0\bin;C:\Program Files\Git\cmd;C:\DEVELOPMENT\platform-tools_r34.0.5-windows (2)\platform-tools;C:\Users\$umeid_ibr\AppData\Local\Microsoft\WindowsApps;C:\Users\$umeid_ibr\AppData\Local\GitHubDesktop\bin;C:\Users\$umeid_ibr\AppData\Local\Programs\Microsoft VS Code\bin;C:\adb;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Go\bin;C:\wamp64\bin\php\php8.2.0;C:\ProgramData\ComposerSetup\bin;C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\$umeid_ibr\AppData\Local\Programs\Python\Launcher\;C:\Users\$umeid_ibr\AppData\Roaming\npm;C:\Users\$umeid_ibr\go\bin;C:\Users\$umeid_ibr\AppData\Roaming\Composer\vendor\bin;C:\Program Files (x86)\Nmap;C:\Users\$umeid_ibr\AppData\Local\Microsoft VS Code\bin;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin
+Check launcher:	C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin\javaw.exe (OK)
+Version string: 1.008.000_351 / 64-Bit (OK)
+Heap -Xms:	Requested 50 MB / 0%, Available: 970 MB, Heap size: 50 MB
+Heap -Xmx:	Requested 90 MB / 0%, Available: 970 MB, Heap size: 90 MB
+Launcher:	C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin\javaw.exe
+Launcher args:	-Xms50m -Xmx90m -Xms512m,  -Xmx1024m -jar "C:\Users\$umeid_ibr\Documents\JAVA_REPOSITORIO\RungeKutta\apo.exe"
+Args length:	109/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\$umeid_ibr\Documents\JAVA_REPOSITORIO\RungeKutta\apo.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\$umeid_ibr\Documents\JAVA_REPOSITORIO\RungeKutta\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.008.000
+Java max ver:	1.011.000
+Substitute:	JAVA_HOME = C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin;C:\DEVELOPMENT\TOOLS\MAVEN\apache-maven-3.9.0\bin;C:\Program Files\Git\cmd;C:\DEVELOPMENT\platform-tools_r34.0.5-windows (2)\platform-tools;C:\Users\$umeid_ibr\AppData\Local\Microsoft\WindowsApps;C:\Users\$umeid_ibr\AppData\Local\GitHubDesktop\bin;C:\Users\$umeid_ibr\AppData\Local\Programs\Microsoft VS Code\bin;C:\adb;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Go\bin;C:\wamp64\bin\php\php8.2.0;C:\ProgramData\ComposerSetup\bin;C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\$umeid_ibr\AppData\Local\Programs\Python\Launcher\;C:\Users\$umeid_ibr\AppData\Roaming\npm;C:\Users\$umeid_ibr\go\bin;C:\Users\$umeid_ibr\AppData\Roaming\Composer\vendor\bin;C:\Program Files (x86)\Nmap;C:\Users\$umeid_ibr\AppData\Local\Microsoft VS Code\bin;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin
+JRE paths:	C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin;C:\DEVELOPMENT\TOOLS\MAVEN\apache-maven-3.9.0\bin;C:\Program Files\Git\cmd;C:\DEVELOPMENT\platform-tools_r34.0.5-windows (2)\platform-tools;C:\Users\$umeid_ibr\AppData\Local\Microsoft\WindowsApps;C:\Users\$umeid_ibr\AppData\Local\GitHubDesktop\bin;C:\Users\$umeid_ibr\AppData\Local\Programs\Microsoft VS Code\bin;C:\adb;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Go\bin;C:\wamp64\bin\php\php8.2.0;C:\ProgramData\ComposerSetup\bin;C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\$umeid_ibr\AppData\Local\Programs\Python\Launcher\;C:\Users\$umeid_ibr\AppData\Roaming\npm;C:\Users\$umeid_ibr\go\bin;C:\Users\$umeid_ibr\AppData\Roaming\Composer\vendor\bin;C:\Program Files (x86)\Nmap;C:\Users\$umeid_ibr\AppData\Local\Microsoft VS Code\bin;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin
+Check launcher:	C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin\javaw.exe (OK)
+Version string: 1.008.000_351 / 64-Bit (OK)
+Heap -Xms:	Requested 50 MB / 0%, Available: 831 MB, Heap size: 50 MB
+Heap -Xmx:	Requested 90 MB / 0%, Available: 831 MB, Heap size: 90 MB
+Launcher:	C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin\javaw.exe
+Launcher args:	-Xms50m -Xmx90m -Xms512m,  -Xmx1024m -jar "C:\Users\$umeid_ibr\Documents\JAVA_REPOSITORIO\RungeKutta\apo.exe"
+Args length:	109/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\$umeid_ibr\Documents\JAVA_REPOSITORIO\RungeKutta\apo.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\$umeid_ibr\Documents\JAVA_REPOSITORIO\RungeKutta\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.008.000
+Java max ver:	1.011.000
+Substitute:	JAVA_HOME = C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin;C:\DEVELOPMENT\TOOLS\MAVEN\apache-maven-3.9.0\bin;C:\Program Files\Git\cmd;C:\DEVELOPMENT\platform-tools_r34.0.5-windows (2)\platform-tools;C:\Users\$umeid_ibr\AppData\Local\Microsoft\WindowsApps;C:\Users\$umeid_ibr\AppData\Local\GitHubDesktop\bin;C:\Users\$umeid_ibr\AppData\Local\Programs\Microsoft VS Code\bin;C:\adb;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Go\bin;C:\wamp64\bin\php\php8.2.0;C:\ProgramData\ComposerSetup\bin;C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\$umeid_ibr\AppData\Local\Programs\Python\Launcher\;C:\Users\$umeid_ibr\AppData\Roaming\npm;C:\Users\$umeid_ibr\go\bin;C:\Users\$umeid_ibr\AppData\Roaming\Composer\vendor\bin;C:\Program Files (x86)\Nmap;C:\Users\$umeid_ibr\AppData\Local\Microsoft VS Code\bin;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin
+JRE paths:	C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin;C:\DEVELOPMENT\TOOLS\MAVEN\apache-maven-3.9.0\bin;C:\Program Files\Git\cmd;C:\DEVELOPMENT\platform-tools_r34.0.5-windows (2)\platform-tools;C:\Users\$umeid_ibr\AppData\Local\Microsoft\WindowsApps;C:\Users\$umeid_ibr\AppData\Local\GitHubDesktop\bin;C:\Users\$umeid_ibr\AppData\Local\Programs\Microsoft VS Code\bin;C:\adb;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Go\bin;C:\wamp64\bin\php\php8.2.0;C:\ProgramData\ComposerSetup\bin;C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\$umeid_ibr\AppData\Local\Programs\Python\Launcher\;C:\Users\$umeid_ibr\AppData\Roaming\npm;C:\Users\$umeid_ibr\go\bin;C:\Users\$umeid_ibr\AppData\Roaming\Composer\vendor\bin;C:\Program Files (x86)\Nmap;C:\Users\$umeid_ibr\AppData\Local\Microsoft VS Code\bin;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin
+Check launcher:	C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin\javaw.exe (OK)
+Version string: 1.008.000_351 / 64-Bit (OK)
+Heap -Xms:	Requested 50 MB / 0%, Available: 749 MB, Heap size: 50 MB
+Heap -Xmx:	Requested 90 MB / 0%, Available: 749 MB, Heap size: 90 MB
+Launcher:	C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin\javaw.exe
+Launcher args:	-Xms50m -Xmx90m -Xms512m,  -Xmx1024m -jar "C:\Users\$umeid_ibr\Documents\JAVA_REPOSITORIO\RungeKutta\apo.exe"
+Args length:	109/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\$umeid_ibr\Documents\JAVA_REPOSITORIO\RungeKutta\apo.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\$umeid_ibr\Documents\JAVA_REPOSITORIO\RungeKutta\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.008.000
+Java max ver:	1.011.000
+Substitute:	JAVA_HOME = C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin;C:\DEVELOPMENT\TOOLS\MAVEN\apache-maven-3.9.0\bin;C:\Program Files\Git\cmd;C:\DEVELOPMENT\platform-tools_r34.0.5-windows (2)\platform-tools;C:\Users\$umeid_ibr\AppData\Local\Microsoft\WindowsApps;C:\Users\$umeid_ibr\AppData\Local\GitHubDesktop\bin;C:\Users\$umeid_ibr\AppData\Local\Programs\Microsoft VS Code\bin;C:\adb;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Go\bin;C:\wamp64\bin\php\php8.2.0;C:\ProgramData\ComposerSetup\bin;C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\$umeid_ibr\AppData\Local\Programs\Python\Launcher\;C:\Users\$umeid_ibr\AppData\Roaming\npm;C:\Users\$umeid_ibr\go\bin;C:\Users\$umeid_ibr\AppData\Roaming\Composer\vendor\bin;C:\Program Files (x86)\Nmap;C:\Users\$umeid_ibr\AppData\Local\Microsoft VS Code\bin;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin
+JRE paths:	C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin;C:\DEVELOPMENT\TOOLS\MAVEN\apache-maven-3.9.0\bin;C:\Program Files\Git\cmd;C:\DEVELOPMENT\platform-tools_r34.0.5-windows (2)\platform-tools;C:\Users\$umeid_ibr\AppData\Local\Microsoft\WindowsApps;C:\Users\$umeid_ibr\AppData\Local\GitHubDesktop\bin;C:\Users\$umeid_ibr\AppData\Local\Programs\Microsoft VS Code\bin;C:\adb;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Go\bin;C:\wamp64\bin\php\php8.2.0;C:\ProgramData\ComposerSetup\bin;C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\$umeid_ibr\AppData\Local\Programs\Python\Launcher\;C:\Users\$umeid_ibr\AppData\Roaming\npm;C:\Users\$umeid_ibr\go\bin;C:\Users\$umeid_ibr\AppData\Roaming\Composer\vendor\bin;C:\Program Files (x86)\Nmap;C:\Users\$umeid_ibr\AppData\Local\Microsoft VS Code\bin;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin
+Check launcher:	C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin\javaw.exe (OK)
+Version string: 1.008.000_351 / 64-Bit (OK)
+Heap -Xms:	Requested 50 MB / 0%, Available: 811 MB, Heap size: 50 MB
+Heap -Xmx:	Requested 90 MB / 0%, Available: 811 MB, Heap size: 90 MB
+Launcher:	C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin\javaw.exe
+Launcher args:	-Xms50m -Xmx90m -Xms512m,  -Xmx1024m -jar "C:\Users\$umeid_ibr\Documents\JAVA_REPOSITORIO\RungeKutta\apo.exe"
+Args length:	109/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\$umeid_ibr\Documents\JAVA_REPOSITORIO\RungeKutta\apo.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\$umeid_ibr\Documents\JAVA_REPOSITORIO\RungeKutta\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.008.000
+Java max ver:	1.011.000
+Substitute:	JAVA_HOME = C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin;C:\DEVELOPMENT\TOOLS\MAVEN\apache-maven-3.9.0\bin;C:\Program Files\Git\cmd;C:\DEVELOPMENT\platform-tools_r34.0.5-windows (2)\platform-tools;C:\Users\$umeid_ibr\AppData\Local\Microsoft\WindowsApps;C:\Users\$umeid_ibr\AppData\Local\GitHubDesktop\bin;C:\Users\$umeid_ibr\AppData\Local\Programs\Microsoft VS Code\bin;C:\adb;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Go\bin;C:\wamp64\bin\php\php8.2.0;C:\ProgramData\ComposerSetup\bin;C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\$umeid_ibr\AppData\Local\Programs\Python\Launcher\;C:\Users\$umeid_ibr\AppData\Roaming\npm;C:\Users\$umeid_ibr\go\bin;C:\Users\$umeid_ibr\AppData\Roaming\Composer\vendor\bin;C:\Program Files (x86)\Nmap;C:\Users\$umeid_ibr\AppData\Local\Microsoft VS Code\bin;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin
+JRE paths:	C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin;C:\DEVELOPMENT\TOOLS\MAVEN\apache-maven-3.9.0\bin;C:\Program Files\Git\cmd;C:\DEVELOPMENT\platform-tools_r34.0.5-windows (2)\platform-tools;C:\Users\$umeid_ibr\AppData\Local\Microsoft\WindowsApps;C:\Users\$umeid_ibr\AppData\Local\GitHubDesktop\bin;C:\Users\$umeid_ibr\AppData\Local\Programs\Microsoft VS Code\bin;C:\adb;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Go\bin;C:\wamp64\bin\php\php8.2.0;C:\ProgramData\ComposerSetup\bin;C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\$umeid_ibr\AppData\Local\Programs\Python\Launcher\;C:\Users\$umeid_ibr\AppData\Roaming\npm;C:\Users\$umeid_ibr\go\bin;C:\Users\$umeid_ibr\AppData\Roaming\Composer\vendor\bin;C:\Program Files (x86)\Nmap;C:\Users\$umeid_ibr\AppData\Local\Microsoft VS Code\bin;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin
+Check launcher:	C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin\javaw.exe (OK)
+Version string: 1.008.000_351 / 64-Bit (OK)
+Heap -Xms:	Requested 50 MB / 0%, Available: 710 MB, Heap size: 50 MB
+Heap -Xmx:	Requested 90 MB / 0%, Available: 710 MB, Heap size: 90 MB
+Launcher:	C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin\javaw.exe
+Launcher args:	-Xms50m -Xmx90m -Xms512m,  -Xmx1024m -jar "C:\Users\$umeid_ibr\Documents\JAVA_REPOSITORIO\RungeKutta\apo.exe"
+Args length:	109/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\$umeid_ibr\Documents\JAVA_REPOSITORIO\RungeKutta\apo.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\$umeid_ibr\Documents\JAVA_REPOSITORIO\RungeKutta\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.008.000
+Java max ver:	1.011.000
+Substitute:	JAVA_HOME = C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin;C:\DEVELOPMENT\TOOLS\MAVEN\apache-maven-3.9.0\bin;C:\Program Files\Git\cmd;C:\DEVELOPMENT\platform-tools_r34.0.5-windows (2)\platform-tools;C:\Users\$umeid_ibr\AppData\Local\Microsoft\WindowsApps;C:\Users\$umeid_ibr\AppData\Local\GitHubDesktop\bin;C:\Users\$umeid_ibr\AppData\Local\Programs\Microsoft VS Code\bin;C:\adb;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Go\bin;C:\wamp64\bin\php\php8.2.0;C:\ProgramData\ComposerSetup\bin;C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\$umeid_ibr\AppData\Local\Programs\Python\Launcher\;C:\Users\$umeid_ibr\AppData\Roaming\npm;C:\Users\$umeid_ibr\go\bin;C:\Users\$umeid_ibr\AppData\Roaming\Composer\vendor\bin;C:\Program Files (x86)\Nmap;C:\Users\$umeid_ibr\AppData\Local\Microsoft VS Code\bin;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin
+JRE paths:	C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin;C:\DEVELOPMENT\TOOLS\MAVEN\apache-maven-3.9.0\bin;C:\Program Files\Git\cmd;C:\DEVELOPMENT\platform-tools_r34.0.5-windows (2)\platform-tools;C:\Users\$umeid_ibr\AppData\Local\Microsoft\WindowsApps;C:\Users\$umeid_ibr\AppData\Local\GitHubDesktop\bin;C:\Users\$umeid_ibr\AppData\Local\Programs\Microsoft VS Code\bin;C:\adb;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Go\bin;C:\wamp64\bin\php\php8.2.0;C:\ProgramData\ComposerSetup\bin;C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\$umeid_ibr\AppData\Local\Programs\Python\Launcher\;C:\Users\$umeid_ibr\AppData\Roaming\npm;C:\Users\$umeid_ibr\go\bin;C:\Users\$umeid_ibr\AppData\Roaming\Composer\vendor\bin;C:\Program Files (x86)\Nmap;C:\Users\$umeid_ibr\AppData\Local\Microsoft VS Code\bin;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin
+Check launcher:	C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin\javaw.exe (OK)
+Version string: 1.008.000_351 / 64-Bit (OK)
+Heap -Xms:	Requested 50 MB / 0%, Available: 764 MB, Heap size: 50 MB
+Heap -Xmx:	Requested 90 MB / 0%, Available: 764 MB, Heap size: 90 MB
+Launcher:	C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin\javaw.exe
+Launcher args:	-Xms50m -Xmx90m -Xms512m,  -Xmx1024m -jar "C:\Users\$umeid_ibr\Documents\JAVA_REPOSITORIO\RungeKutta\apo.exe"
+Args length:	109/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\$umeid_ibr\Documents\JAVA_REPOSITORIO\RungeKutta\apo.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\$umeid_ibr\Documents\JAVA_REPOSITORIO\RungeKutta\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.008.000
+Java max ver:	1.011.000
+Substitute:	JAVA_HOME = C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin;C:\DEVELOPMENT\TOOLS\MAVEN\apache-maven-3.9.0\bin;C:\Program Files\Git\cmd;C:\DEVELOPMENT\platform-tools_r34.0.5-windows (2)\platform-tools;C:\Users\$umeid_ibr\AppData\Local\Microsoft\WindowsApps;C:\Users\$umeid_ibr\AppData\Local\GitHubDesktop\bin;C:\Users\$umeid_ibr\AppData\Local\Programs\Microsoft VS Code\bin;C:\adb;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Go\bin;C:\wamp64\bin\php\php8.2.0;C:\ProgramData\ComposerSetup\bin;C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\$umeid_ibr\AppData\Local\Programs\Python\Launcher\;C:\Users\$umeid_ibr\AppData\Roaming\npm;C:\Users\$umeid_ibr\go\bin;C:\Users\$umeid_ibr\AppData\Roaming\Composer\vendor\bin;C:\Program Files (x86)\Nmap;C:\Users\$umeid_ibr\AppData\Local\Microsoft VS Code\bin;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin
+JRE paths:	C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin;C:\DEVELOPMENT\TOOLS\MAVEN\apache-maven-3.9.0\bin;C:\Program Files\Git\cmd;C:\DEVELOPMENT\platform-tools_r34.0.5-windows (2)\platform-tools;C:\Users\$umeid_ibr\AppData\Local\Microsoft\WindowsApps;C:\Users\$umeid_ibr\AppData\Local\GitHubDesktop\bin;C:\Users\$umeid_ibr\AppData\Local\Programs\Microsoft VS Code\bin;C:\adb;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Go\bin;C:\wamp64\bin\php\php8.2.0;C:\ProgramData\ComposerSetup\bin;C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\$umeid_ibr\AppData\Local\Programs\Python\Launcher\;C:\Users\$umeid_ibr\AppData\Roaming\npm;C:\Users\$umeid_ibr\go\bin;C:\Users\$umeid_ibr\AppData\Roaming\Composer\vendor\bin;C:\Program Files (x86)\Nmap;C:\Users\$umeid_ibr\AppData\Local\Microsoft VS Code\bin;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin
+Check launcher:	C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin\javaw.exe (OK)
+Version string: 1.008.000_351 / 64-Bit (OK)
+Heap -Xms:	Requested 50 MB / 0%, Available: 765 MB, Heap size: 50 MB
+Heap -Xmx:	Requested 90 MB / 0%, Available: 765 MB, Heap size: 90 MB
+Launcher:	C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin\javaw.exe
+Launcher args:	-Xms50m -Xmx90m -Xms512m,  -Xmx1024m -jar "C:\Users\$umeid_ibr\Documents\JAVA_REPOSITORIO\RungeKutta\apo.exe"
+Args length:	109/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\$umeid_ibr\Documents\JAVA_REPOSITORIO\RungeKutta\apo.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\$umeid_ibr\Documents\JAVA_REPOSITORIO\RungeKutta\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.008.000
+Java max ver:	1.011.000
+Substitute:	JAVA_HOME = C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin;C:\DEVELOPMENT\TOOLS\MAVEN\apache-maven-3.9.0\bin;C:\Program Files\Git\cmd;C:\DEVELOPMENT\platform-tools_r34.0.5-windows (2)\platform-tools;C:\Users\$umeid_ibr\AppData\Local\Microsoft\WindowsApps;C:\Users\$umeid_ibr\AppData\Local\GitHubDesktop\bin;C:\Users\$umeid_ibr\AppData\Local\Programs\Microsoft VS Code\bin;C:\adb;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Go\bin;C:\wamp64\bin\php\php8.2.0;C:\ProgramData\ComposerSetup\bin;C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\$umeid_ibr\AppData\Local\Programs\Python\Launcher\;C:\Users\$umeid_ibr\AppData\Roaming\npm;C:\Users\$umeid_ibr\go\bin;C:\Users\$umeid_ibr\AppData\Roaming\Composer\vendor\bin;C:\Program Files (x86)\Nmap;C:\Users\$umeid_ibr\AppData\Local\Microsoft VS Code\bin;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin
+JRE paths:	C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin;C:\DEVELOPMENT\TOOLS\MAVEN\apache-maven-3.9.0\bin;C:\Program Files\Git\cmd;C:\DEVELOPMENT\platform-tools_r34.0.5-windows (2)\platform-tools;C:\Users\$umeid_ibr\AppData\Local\Microsoft\WindowsApps;C:\Users\$umeid_ibr\AppData\Local\GitHubDesktop\bin;C:\Users\$umeid_ibr\AppData\Local\Programs\Microsoft VS Code\bin;C:\adb;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Go\bin;C:\wamp64\bin\php\php8.2.0;C:\ProgramData\ComposerSetup\bin;C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\$umeid_ibr\AppData\Local\Programs\Python\Launcher\;C:\Users\$umeid_ibr\AppData\Roaming\npm;C:\Users\$umeid_ibr\go\bin;C:\Users\$umeid_ibr\AppData\Roaming\Composer\vendor\bin;C:\Program Files (x86)\Nmap;C:\Users\$umeid_ibr\AppData\Local\Microsoft VS Code\bin;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin
+Check launcher:	C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin\javaw.exe (OK)
+Version string: 1.008.000_351 / 64-Bit (OK)
+Heap -Xms:	Requested 50 MB / 0%, Available: 762 MB, Heap size: 50 MB
+Heap -Xmx:	Requested 90 MB / 0%, Available: 762 MB, Heap size: 90 MB
+Launcher:	C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin\javaw.exe
+Launcher args:	-Xms50m -Xmx90m -Xms512m,  -Xmx1024m -jar "C:\Users\$umeid_ibr\Documents\JAVA_REPOSITORIO\RungeKutta\apo.exe"
+Args length:	109/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\$umeid_ibr\Documents\JAVA_REPOSITORIO\RungeKutta\apo.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\$umeid_ibr\Documents\JAVA_REPOSITORIO\RungeKutta\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.008.000
+Java max ver:	1.011.000
+Substitute:	JAVA_HOME = C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin;C:\DEVELOPMENT\TOOLS\MAVEN\apache-maven-3.9.0\bin;C:\Program Files\Git\cmd;C:\DEVELOPMENT\platform-tools_r34.0.5-windows (2)\platform-tools;C:\Users\$umeid_ibr\AppData\Local\Microsoft\WindowsApps;C:\Users\$umeid_ibr\AppData\Local\GitHubDesktop\bin;C:\Users\$umeid_ibr\AppData\Local\Programs\Microsoft VS Code\bin;C:\adb;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Go\bin;C:\wamp64\bin\php\php8.2.0;C:\ProgramData\ComposerSetup\bin;C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\$umeid_ibr\AppData\Local\Programs\Python\Launcher\;C:\Users\$umeid_ibr\AppData\Roaming\npm;C:\Users\$umeid_ibr\go\bin;C:\Users\$umeid_ibr\AppData\Roaming\Composer\vendor\bin;C:\Program Files (x86)\Nmap;C:\Users\$umeid_ibr\AppData\Local\Microsoft VS Code\bin;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin
+JRE paths:	C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin;C:\DEVELOPMENT\TOOLS\MAVEN\apache-maven-3.9.0\bin;C:\Program Files\Git\cmd;C:\DEVELOPMENT\platform-tools_r34.0.5-windows (2)\platform-tools;C:\Users\$umeid_ibr\AppData\Local\Microsoft\WindowsApps;C:\Users\$umeid_ibr\AppData\Local\GitHubDesktop\bin;C:\Users\$umeid_ibr\AppData\Local\Programs\Microsoft VS Code\bin;C:\adb;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Go\bin;C:\wamp64\bin\php\php8.2.0;C:\ProgramData\ComposerSetup\bin;C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\$umeid_ibr\AppData\Local\Programs\Python\Launcher\;C:\Users\$umeid_ibr\AppData\Roaming\npm;C:\Users\$umeid_ibr\go\bin;C:\Users\$umeid_ibr\AppData\Roaming\Composer\vendor\bin;C:\Program Files (x86)\Nmap;C:\Users\$umeid_ibr\AppData\Local\Microsoft VS Code\bin;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin
+Check launcher:	C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin\javaw.exe (OK)
+Version string: 1.008.000_351 / 64-Bit (OK)
+Heap -Xms:	Requested 50 MB / 0%, Available: 656 MB, Heap size: 50 MB
+Heap -Xmx:	Requested 90 MB / 0%, Available: 656 MB, Heap size: 90 MB
+Launcher:	C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin\javaw.exe
+Launcher args:	-Xms50m -Xmx90m -Xms512m,  -Xmx1024m -jar "C:\Users\$umeid_ibr\Documents\JAVA_REPOSITORIO\RungeKutta\apo.exe"
+Args length:	109/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\$umeid_ibr\Documents\JAVA_REPOSITORIO\RungeKutta\apo.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\$umeid_ibr\Documents\JAVA_REPOSITORIO\RungeKutta\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.008.000
+Java max ver:	1.011.000
+Substitute:	JAVA_HOME = C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin;C:\DEVELOPMENT\TOOLS\MAVEN\apache-maven-3.9.0\bin;C:\Program Files\Git\cmd;C:\DEVELOPMENT\platform-tools_r34.0.5-windows (2)\platform-tools;C:\Users\$umeid_ibr\AppData\Local\Microsoft\WindowsApps;C:\Users\$umeid_ibr\AppData\Local\GitHubDesktop\bin;C:\Users\$umeid_ibr\AppData\Local\Programs\Microsoft VS Code\bin;C:\adb;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Go\bin;C:\wamp64\bin\php\php8.2.0;C:\ProgramData\ComposerSetup\bin;C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\$umeid_ibr\AppData\Local\Programs\Python\Launcher\;C:\Users\$umeid_ibr\AppData\Roaming\npm;C:\Users\$umeid_ibr\go\bin;C:\Users\$umeid_ibr\AppData\Roaming\Composer\vendor\bin;C:\Program Files (x86)\Nmap;C:\Users\$umeid_ibr\AppData\Local\Microsoft VS Code\bin;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin
+JRE paths:	C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin;C:\DEVELOPMENT\TOOLS\MAVEN\apache-maven-3.9.0\bin;C:\Program Files\Git\cmd;C:\DEVELOPMENT\platform-tools_r34.0.5-windows (2)\platform-tools;C:\Users\$umeid_ibr\AppData\Local\Microsoft\WindowsApps;C:\Users\$umeid_ibr\AppData\Local\GitHubDesktop\bin;C:\Users\$umeid_ibr\AppData\Local\Programs\Microsoft VS Code\bin;C:\adb;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Go\bin;C:\wamp64\bin\php\php8.2.0;C:\ProgramData\ComposerSetup\bin;C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\$umeid_ibr\AppData\Local\Programs\Python\Launcher\;C:\Users\$umeid_ibr\AppData\Roaming\npm;C:\Users\$umeid_ibr\go\bin;C:\Users\$umeid_ibr\AppData\Roaming\Composer\vendor\bin;C:\Program Files (x86)\Nmap;C:\Users\$umeid_ibr\AppData\Local\Microsoft VS Code\bin;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin
+Check launcher:	C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin\javaw.exe (OK)
+Version string: 1.008.000_351 / 64-Bit (OK)
+Heap -Xms:	Requested 50 MB / 0%, Available: 706 MB, Heap size: 50 MB
+Heap -Xmx:	Requested 90 MB / 0%, Available: 706 MB, Heap size: 90 MB
+Launcher:	C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin\javaw.exe
+Launcher args:	-Xms50m -Xmx90m -Xms512m,  -Xmx1024m -jar "C:\Users\$umeid_ibr\Documents\JAVA_REPOSITORIO\RungeKutta\apo.exe"
+Args length:	109/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\$umeid_ibr\Documents\JAVA_REPOSITORIO\RungeKutta\apo.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\$umeid_ibr\Documents\JAVA_REPOSITORIO\RungeKutta\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.008.000
+Java max ver:	1.011.000
+Substitute:	JAVA_HOME = C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin;C:\DEVELOPMENT\TOOLS\MAVEN\apache-maven-3.9.0\bin;C:\Program Files\Git\cmd;C:\DEVELOPMENT\platform-tools_r34.0.5-windows (2)\platform-tools;C:\Users\$umeid_ibr\AppData\Local\Microsoft\WindowsApps;C:\Users\$umeid_ibr\AppData\Local\GitHubDesktop\bin;C:\Users\$umeid_ibr\AppData\Local\Programs\Microsoft VS Code\bin;C:\adb;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Go\bin;C:\wamp64\bin\php\php8.2.0;C:\ProgramData\ComposerSetup\bin;C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\$umeid_ibr\AppData\Local\Programs\Python\Launcher\;C:\Users\$umeid_ibr\AppData\Roaming\npm;C:\Users\$umeid_ibr\go\bin;C:\Users\$umeid_ibr\AppData\Roaming\Composer\vendor\bin;C:\Program Files (x86)\Nmap;C:\Users\$umeid_ibr\AppData\Local\Microsoft VS Code\bin;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin
+JRE paths:	C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin;C:\DEVELOPMENT\TOOLS\MAVEN\apache-maven-3.9.0\bin;C:\Program Files\Git\cmd;C:\DEVELOPMENT\platform-tools_r34.0.5-windows (2)\platform-tools;C:\Users\$umeid_ibr\AppData\Local\Microsoft\WindowsApps;C:\Users\$umeid_ibr\AppData\Local\GitHubDesktop\bin;C:\Users\$umeid_ibr\AppData\Local\Programs\Microsoft VS Code\bin;C:\adb;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Go\bin;C:\wamp64\bin\php\php8.2.0;C:\ProgramData\ComposerSetup\bin;C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\$umeid_ibr\AppData\Local\Programs\Python\Launcher\;C:\Users\$umeid_ibr\AppData\Roaming\npm;C:\Users\$umeid_ibr\go\bin;C:\Users\$umeid_ibr\AppData\Roaming\Composer\vendor\bin;C:\Program Files (x86)\Nmap;C:\Users\$umeid_ibr\AppData\Local\Microsoft VS Code\bin;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin
+Check launcher:	C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin\javaw.exe (OK)
+Version string: 1.008.000_351 / 64-Bit (OK)
+Heap -Xms:	Requested 50 MB / 0%, Available: 930 MB, Heap size: 50 MB
+Heap -Xmx:	Requested 90 MB / 0%, Available: 930 MB, Heap size: 90 MB
+Launcher:	C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin\javaw.exe
+Launcher args:	-Xms50m -Xmx90m -Xms512m,  -Xmx1024m -jar "C:\Users\$umeid_ibr\Documents\JAVA_REPOSITORIO\RungeKutta\apo.exe"
+Args length:	109/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\$umeid_ibr\Documents\JAVA_REPOSITORIO\RungeKutta\apo.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\$umeid_ibr\Documents\JAVA_REPOSITORIO\RungeKutta\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.008.000
+Java max ver:	1.011.000
+Substitute:	JAVA_HOME = C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin;C:\DEVELOPMENT\TOOLS\MAVEN\apache-maven-3.9.0\bin;C:\Program Files\Git\cmd;C:\DEVELOPMENT\platform-tools_r34.0.5-windows (2)\platform-tools;C:\Users\$umeid_ibr\AppData\Local\Microsoft\WindowsApps;C:\Users\$umeid_ibr\AppData\Local\GitHubDesktop\bin;C:\Users\$umeid_ibr\AppData\Local\Programs\Microsoft VS Code\bin;C:\adb;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Go\bin;C:\wamp64\bin\php\php8.2.0;C:\ProgramData\ComposerSetup\bin;C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\$umeid_ibr\AppData\Local\Programs\Python\Launcher\;C:\Users\$umeid_ibr\AppData\Roaming\npm;C:\Users\$umeid_ibr\go\bin;C:\Users\$umeid_ibr\AppData\Roaming\Composer\vendor\bin;C:\Program Files (x86)\Nmap;C:\Users\$umeid_ibr\AppData\Local\Microsoft VS Code\bin;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin
+JRE paths:	C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin;C:\DEVELOPMENT\TOOLS\MAVEN\apache-maven-3.9.0\bin;C:\Program Files\Git\cmd;C:\DEVELOPMENT\platform-tools_r34.0.5-windows (2)\platform-tools;C:\Users\$umeid_ibr\AppData\Local\Microsoft\WindowsApps;C:\Users\$umeid_ibr\AppData\Local\GitHubDesktop\bin;C:\Users\$umeid_ibr\AppData\Local\Programs\Microsoft VS Code\bin;C:\adb;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Go\bin;C:\wamp64\bin\php\php8.2.0;C:\ProgramData\ComposerSetup\bin;C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\$umeid_ibr\AppData\Local\Programs\Python\Launcher\;C:\Users\$umeid_ibr\AppData\Roaming\npm;C:\Users\$umeid_ibr\go\bin;C:\Users\$umeid_ibr\AppData\Roaming\Composer\vendor\bin;C:\Program Files (x86)\Nmap;C:\Users\$umeid_ibr\AppData\Local\Microsoft VS Code\bin;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin
+Check launcher:	C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin\javaw.exe (OK)
+Version string: 1.008.000_351 / 64-Bit (OK)
+Heap -Xms:	Requested 50 MB / 0%, Available: 953 MB, Heap size: 50 MB
+Heap -Xmx:	Requested 90 MB / 0%, Available: 953 MB, Heap size: 90 MB
+Launcher:	C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin\javaw.exe
+Launcher args:	-Xms50m -Xmx90m -Xms512m,  -Xmx1024m -jar "C:\Users\$umeid_ibr\Documents\JAVA_REPOSITORIO\RungeKutta\apo.exe"
+Args length:	109/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\$umeid_ibr\Documents\JAVA_REPOSITORIO\RungeKutta\apo.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\$umeid_ibr\Documents\JAVA_REPOSITORIO\RungeKutta\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.008.000
+Java max ver:	1.011.000
+Substitute:	JAVA_HOME = C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin;C:\DEVELOPMENT\TOOLS\MAVEN\apache-maven-3.9.0\bin;C:\Program Files\Git\cmd;C:\DEVELOPMENT\platform-tools_r34.0.5-windows (2)\platform-tools;C:\Users\$umeid_ibr\AppData\Local\Microsoft\WindowsApps;C:\Users\$umeid_ibr\AppData\Local\GitHubDesktop\bin;C:\Users\$umeid_ibr\AppData\Local\Programs\Microsoft VS Code\bin;C:\adb;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Go\bin;C:\wamp64\bin\php\php8.2.0;C:\ProgramData\ComposerSetup\bin;C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\$umeid_ibr\AppData\Local\Programs\Python\Launcher\;C:\Users\$umeid_ibr\AppData\Roaming\npm;C:\Users\$umeid_ibr\go\bin;C:\Users\$umeid_ibr\AppData\Roaming\Composer\vendor\bin;C:\Program Files (x86)\Nmap;C:\Users\$umeid_ibr\AppData\Local\Microsoft VS Code\bin;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin
+JRE paths:	C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin;C:\DEVELOPMENT\TOOLS\MAVEN\apache-maven-3.9.0\bin;C:\Program Files\Git\cmd;C:\DEVELOPMENT\platform-tools_r34.0.5-windows (2)\platform-tools;C:\Users\$umeid_ibr\AppData\Local\Microsoft\WindowsApps;C:\Users\$umeid_ibr\AppData\Local\GitHubDesktop\bin;C:\Users\$umeid_ibr\AppData\Local\Programs\Microsoft VS Code\bin;C:\adb;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Go\bin;C:\wamp64\bin\php\php8.2.0;C:\ProgramData\ComposerSetup\bin;C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\$umeid_ibr\AppData\Local\Programs\Python\Launcher\;C:\Users\$umeid_ibr\AppData\Roaming\npm;C:\Users\$umeid_ibr\go\bin;C:\Users\$umeid_ibr\AppData\Roaming\Composer\vendor\bin;C:\Program Files (x86)\Nmap;C:\Users\$umeid_ibr\AppData\Local\Microsoft VS Code\bin;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin
+Check launcher:	C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin\javaw.exe (OK)
+Version string: 1.008.000_351 / 64-Bit (OK)
+Heap -Xms:	Requested 50 MB / 0%, Available: 975 MB, Heap size: 50 MB
+Heap -Xmx:	Requested 90 MB / 0%, Available: 975 MB, Heap size: 90 MB
+Launcher:	C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin\javaw.exe
+Launcher args:	-Xms50m -Xmx90m -Xms512m,  -Xmx1024m -jar "C:\Users\$umeid_ibr\Documents\JAVA_REPOSITORIO\RungeKutta\apo.exe"
+Args length:	109/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\$umeid_ibr\Documents\JAVA_REPOSITORIO\RungeKutta\apo.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\$umeid_ibr\Documents\JAVA_REPOSITORIO\RungeKutta\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.008.000
+Java max ver:	1.011.000
+Substitute:	JAVA_HOME = C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin;C:\DEVELOPMENT\TOOLS\MAVEN\apache-maven-3.9.0\bin;C:\Program Files\Git\cmd;C:\DEVELOPMENT\platform-tools_r34.0.5-windows (2)\platform-tools;C:\Users\$umeid_ibr\AppData\Local\Microsoft\WindowsApps;C:\Users\$umeid_ibr\AppData\Local\GitHubDesktop\bin;C:\Users\$umeid_ibr\AppData\Local\Programs\Microsoft VS Code\bin;C:\adb;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Go\bin;C:\wamp64\bin\php\php8.2.0;C:\ProgramData\ComposerSetup\bin;C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\$umeid_ibr\AppData\Local\Programs\Python\Launcher\;C:\Users\$umeid_ibr\AppData\Roaming\npm;C:\Users\$umeid_ibr\go\bin;C:\Users\$umeid_ibr\AppData\Roaming\Composer\vendor\bin;C:\Program Files (x86)\Nmap;C:\Users\$umeid_ibr\AppData\Local\Microsoft VS Code\bin;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin
+JRE paths:	C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin;C:\DEVELOPMENT\TOOLS\MAVEN\apache-maven-3.9.0\bin;C:\Program Files\Git\cmd;C:\DEVELOPMENT\platform-tools_r34.0.5-windows (2)\platform-tools;C:\Users\$umeid_ibr\AppData\Local\Microsoft\WindowsApps;C:\Users\$umeid_ibr\AppData\Local\GitHubDesktop\bin;C:\Users\$umeid_ibr\AppData\Local\Programs\Microsoft VS Code\bin;C:\adb;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Go\bin;C:\wamp64\bin\php\php8.2.0;C:\ProgramData\ComposerSetup\bin;C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\$umeid_ibr\AppData\Local\Programs\Python\Launcher\;C:\Users\$umeid_ibr\AppData\Roaming\npm;C:\Users\$umeid_ibr\go\bin;C:\Users\$umeid_ibr\AppData\Roaming\Composer\vendor\bin;C:\Program Files (x86)\Nmap;C:\Users\$umeid_ibr\AppData\Local\Microsoft VS Code\bin;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin
+Check launcher:	C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin\javaw.exe (OK)
+Version string: 1.008.000_351 / 64-Bit (OK)
+Heap -Xms:	Requested 50 MB / 0%, Available: 901 MB, Heap size: 50 MB
+Heap -Xmx:	Requested 90 MB / 0%, Available: 901 MB, Heap size: 90 MB
+Launcher:	C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin\javaw.exe
+Launcher args:	-Xms50m -Xmx90m -Xms512m,  -Xmx1024m -jar "C:\Users\$umeid_ibr\Documents\JAVA_REPOSITORIO\RungeKutta\apo.exe"
+Args length:	109/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\$umeid_ibr\Documents\JAVA_REPOSITORIO\RungeKutta\apo.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\$umeid_ibr\Documents\JAVA_REPOSITORIO\RungeKutta\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.008.000
+Java max ver:	1.011.000
+Substitute:	JAVA_HOME = C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin;C:\DEVELOPMENT\TOOLS\MAVEN\apache-maven-3.9.0\bin;C:\Program Files\Git\cmd;C:\DEVELOPMENT\platform-tools_r34.0.5-windows (2)\platform-tools;C:\Users\$umeid_ibr\AppData\Local\Microsoft\WindowsApps;C:\Users\$umeid_ibr\AppData\Local\GitHubDesktop\bin;C:\Users\$umeid_ibr\AppData\Local\Programs\Microsoft VS Code\bin;C:\adb;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Go\bin;C:\wamp64\bin\php\php8.2.0;C:\ProgramData\ComposerSetup\bin;C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\$umeid_ibr\AppData\Local\Programs\Python\Launcher\;C:\Users\$umeid_ibr\AppData\Roaming\npm;C:\Users\$umeid_ibr\go\bin;C:\Users\$umeid_ibr\AppData\Roaming\Composer\vendor\bin;C:\Program Files (x86)\Nmap;C:\Users\$umeid_ibr\AppData\Local\Microsoft VS Code\bin;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin
+JRE paths:	C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin;C:\DEVELOPMENT\TOOLS\MAVEN\apache-maven-3.9.0\bin;C:\Program Files\Git\cmd;C:\DEVELOPMENT\platform-tools_r34.0.5-windows (2)\platform-tools;C:\Users\$umeid_ibr\AppData\Local\Microsoft\WindowsApps;C:\Users\$umeid_ibr\AppData\Local\GitHubDesktop\bin;C:\Users\$umeid_ibr\AppData\Local\Programs\Microsoft VS Code\bin;C:\adb;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Go\bin;C:\wamp64\bin\php\php8.2.0;C:\ProgramData\ComposerSetup\bin;C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\$umeid_ibr\AppData\Local\Programs\Python\Launcher\;C:\Users\$umeid_ibr\AppData\Roaming\npm;C:\Users\$umeid_ibr\go\bin;C:\Users\$umeid_ibr\AppData\Roaming\Composer\vendor\bin;C:\Program Files (x86)\Nmap;C:\Users\$umeid_ibr\AppData\Local\Microsoft VS Code\bin;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin
+Check launcher:	C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin\javaw.exe (OK)
+Version string: 1.008.000_351 / 64-Bit (OK)
+Heap -Xms:	Requested 50 MB / 0%, Available: 828 MB, Heap size: 50 MB
+Heap -Xmx:	Requested 90 MB / 0%, Available: 828 MB, Heap size: 90 MB
+Launcher:	C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin\javaw.exe
+Launcher args:	-Xms50m -Xmx90m -Xms512m,  -Xmx1024m -jar "C:\Users\$umeid_ibr\Documents\JAVA_REPOSITORIO\RungeKutta\apo.exe"
+Args length:	109/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\$umeid_ibr\Documents\JAVA_REPOSITORIO\RungeKutta\apo.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\$umeid_ibr\Documents\JAVA_REPOSITORIO\RungeKutta\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.008.000
+Java max ver:	1.011.000
+Substitute:	JAVA_HOME = C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin;C:\DEVELOPMENT\TOOLS\MAVEN\apache-maven-3.9.0\bin;C:\Program Files\Git\cmd;C:\DEVELOPMENT\platform-tools_r34.0.5-windows (2)\platform-tools;C:\Users\$umeid_ibr\AppData\Local\Microsoft\WindowsApps;C:\Users\$umeid_ibr\AppData\Local\GitHubDesktop\bin;C:\Users\$umeid_ibr\AppData\Local\Programs\Microsoft VS Code\bin;C:\adb;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Go\bin;C:\wamp64\bin\php\php8.2.0;C:\ProgramData\ComposerSetup\bin;C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\$umeid_ibr\AppData\Local\Programs\Python\Launcher\;C:\Users\$umeid_ibr\AppData\Roaming\npm;C:\Users\$umeid_ibr\go\bin;C:\Users\$umeid_ibr\AppData\Roaming\Composer\vendor\bin;C:\Program Files (x86)\Nmap;C:\Users\$umeid_ibr\AppData\Local\Microsoft VS Code\bin;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin
+JRE paths:	C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin;C:\DEVELOPMENT\TOOLS\MAVEN\apache-maven-3.9.0\bin;C:\Program Files\Git\cmd;C:\DEVELOPMENT\platform-tools_r34.0.5-windows (2)\platform-tools;C:\Users\$umeid_ibr\AppData\Local\Microsoft\WindowsApps;C:\Users\$umeid_ibr\AppData\Local\GitHubDesktop\bin;C:\Users\$umeid_ibr\AppData\Local\Programs\Microsoft VS Code\bin;C:\adb;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Go\bin;C:\wamp64\bin\php\php8.2.0;C:\ProgramData\ComposerSetup\bin;C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\$umeid_ibr\AppData\Local\Programs\Python\Launcher\;C:\Users\$umeid_ibr\AppData\Roaming\npm;C:\Users\$umeid_ibr\go\bin;C:\Users\$umeid_ibr\AppData\Roaming\Composer\vendor\bin;C:\Program Files (x86)\Nmap;C:\Users\$umeid_ibr\AppData\Local\Microsoft VS Code\bin;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin
+Check launcher:	C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin\javaw.exe (OK)
+Version string: 1.008.000_351 / 64-Bit (OK)
+Heap -Xms:	Requested 50 MB / 0%, Available: 799 MB, Heap size: 50 MB
+Heap -Xmx:	Requested 90 MB / 0%, Available: 799 MB, Heap size: 90 MB
+Launcher:	C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin\javaw.exe
+Launcher args:	-Xms50m -Xmx90m -Xms512m,  -Xmx1024m -jar "C:\Users\$umeid_ibr\Documents\JAVA_REPOSITORIO\RungeKutta\apo.exe"
+Args length:	109/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\$umeid_ibr\Documents\JAVA_REPOSITORIO\RungeKutta\apo.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\$umeid_ibr\Documents\JAVA_REPOSITORIO\RungeKutta\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.008.000
+Java max ver:	1.011.000
+Substitute:	JAVA_HOME = C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin;C:\DEVELOPMENT\TOOLS\MAVEN\apache-maven-3.9.0\bin;C:\Program Files\Git\cmd;C:\DEVELOPMENT\platform-tools_r34.0.5-windows (2)\platform-tools;C:\Users\$umeid_ibr\AppData\Local\Microsoft\WindowsApps;C:\Users\$umeid_ibr\AppData\Local\GitHubDesktop\bin;C:\Users\$umeid_ibr\AppData\Local\Programs\Microsoft VS Code\bin;C:\adb;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Go\bin;C:\wamp64\bin\php\php8.2.0;C:\ProgramData\ComposerSetup\bin;C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\$umeid_ibr\AppData\Local\Programs\Python\Launcher\;C:\Users\$umeid_ibr\AppData\Roaming\npm;C:\Users\$umeid_ibr\go\bin;C:\Users\$umeid_ibr\AppData\Roaming\Composer\vendor\bin;C:\Program Files (x86)\Nmap;C:\Users\$umeid_ibr\AppData\Local\Microsoft VS Code\bin;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin
+JRE paths:	C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin;C:\DEVELOPMENT\TOOLS\MAVEN\apache-maven-3.9.0\bin;C:\Program Files\Git\cmd;C:\DEVELOPMENT\platform-tools_r34.0.5-windows (2)\platform-tools;C:\Users\$umeid_ibr\AppData\Local\Microsoft\WindowsApps;C:\Users\$umeid_ibr\AppData\Local\GitHubDesktop\bin;C:\Users\$umeid_ibr\AppData\Local\Programs\Microsoft VS Code\bin;C:\adb;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Go\bin;C:\wamp64\bin\php\php8.2.0;C:\ProgramData\ComposerSetup\bin;C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\$umeid_ibr\AppData\Local\Programs\Python\Launcher\;C:\Users\$umeid_ibr\AppData\Roaming\npm;C:\Users\$umeid_ibr\go\bin;C:\Users\$umeid_ibr\AppData\Roaming\Composer\vendor\bin;C:\Program Files (x86)\Nmap;C:\Users\$umeid_ibr\AppData\Local\Microsoft VS Code\bin;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin
+Check launcher:	C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin\javaw.exe (OK)
+Version string: 1.008.000_351 / 64-Bit (OK)
+Heap -Xms:	Requested 50 MB / 0%, Available: 793 MB, Heap size: 50 MB
+Heap -Xmx:	Requested 90 MB / 0%, Available: 793 MB, Heap size: 90 MB
+Launcher:	C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin\javaw.exe
+Launcher args:	-Xms50m -Xmx90m -Xms512m,  -Xmx1024m -jar "C:\Users\$umeid_ibr\Documents\JAVA_REPOSITORIO\RungeKutta\apo.exe"
+Args length:	109/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\$umeid_ibr\Documents\JAVA_REPOSITORIO\RungeKutta\apo.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\$umeid_ibr\Documents\JAVA_REPOSITORIO\RungeKutta\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.008.000
+Java max ver:	1.011.000
+Substitute:	JAVA_HOME = C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin;C:\DEVELOPMENT\TOOLS\MAVEN\apache-maven-3.9.0\bin;C:\Program Files\Git\cmd;C:\DEVELOPMENT\platform-tools_r34.0.5-windows (2)\platform-tools;C:\Users\$umeid_ibr\AppData\Local\Microsoft\WindowsApps;C:\Users\$umeid_ibr\AppData\Local\GitHubDesktop\bin;C:\Users\$umeid_ibr\AppData\Local\Programs\Microsoft VS Code\bin;C:\adb;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Go\bin;C:\wamp64\bin\php\php8.2.0;C:\ProgramData\ComposerSetup\bin;C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\$umeid_ibr\AppData\Local\Programs\Python\Launcher\;C:\Users\$umeid_ibr\AppData\Roaming\npm;C:\Users\$umeid_ibr\go\bin;C:\Users\$umeid_ibr\AppData\Roaming\Composer\vendor\bin;C:\Program Files (x86)\Nmap;C:\Users\$umeid_ibr\AppData\Local\Microsoft VS Code\bin;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin
+JRE paths:	C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin;C:\DEVELOPMENT\TOOLS\MAVEN\apache-maven-3.9.0\bin;C:\Program Files\Git\cmd;C:\DEVELOPMENT\platform-tools_r34.0.5-windows (2)\platform-tools;C:\Users\$umeid_ibr\AppData\Local\Microsoft\WindowsApps;C:\Users\$umeid_ibr\AppData\Local\GitHubDesktop\bin;C:\Users\$umeid_ibr\AppData\Local\Programs\Microsoft VS Code\bin;C:\adb;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Go\bin;C:\wamp64\bin\php\php8.2.0;C:\ProgramData\ComposerSetup\bin;C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\$umeid_ibr\AppData\Local\Programs\Python\Launcher\;C:\Users\$umeid_ibr\AppData\Roaming\npm;C:\Users\$umeid_ibr\go\bin;C:\Users\$umeid_ibr\AppData\Roaming\Composer\vendor\bin;C:\Program Files (x86)\Nmap;C:\Users\$umeid_ibr\AppData\Local\Microsoft VS Code\bin;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin
+Check launcher:	C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin\javaw.exe (OK)
+Version string: 1.008.000_351 / 64-Bit (OK)
+Heap -Xms:	Requested 50 MB / 0%, Available: 805 MB, Heap size: 50 MB
+Heap -Xmx:	Requested 90 MB / 0%, Available: 805 MB, Heap size: 90 MB
+Launcher:	C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin\javaw.exe
+Launcher args:	-Xms50m -Xmx90m -Xms512m,  -Xmx1024m -jar "C:\Users\$umeid_ibr\Documents\JAVA_REPOSITORIO\RungeKutta\apo.exe"
+Args length:	109/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\$umeid_ibr\Documents\JAVA_REPOSITORIO\RungeKutta\apo.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\$umeid_ibr\Documents\JAVA_REPOSITORIO\RungeKutta\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.008.000
+Java max ver:	1.011.000
+Substitute:	JAVA_HOME = C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin;C:\DEVELOPMENT\TOOLS\MAVEN\apache-maven-3.9.0\bin;C:\Program Files\Git\cmd;C:\DEVELOPMENT\platform-tools_r34.0.5-windows (2)\platform-tools;C:\Users\$umeid_ibr\AppData\Local\Microsoft\WindowsApps;C:\Users\$umeid_ibr\AppData\Local\GitHubDesktop\bin;C:\Users\$umeid_ibr\AppData\Local\Programs\Microsoft VS Code\bin;C:\adb;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Go\bin;C:\wamp64\bin\php\php8.2.0;C:\ProgramData\ComposerSetup\bin;C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\$umeid_ibr\AppData\Local\Programs\Python\Launcher\;C:\Users\$umeid_ibr\AppData\Roaming\npm;C:\Users\$umeid_ibr\go\bin;C:\Users\$umeid_ibr\AppData\Roaming\Composer\vendor\bin;C:\Program Files (x86)\Nmap;C:\Users\$umeid_ibr\AppData\Local\Microsoft VS Code\bin;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin
+JRE paths:	C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin;C:\DEVELOPMENT\TOOLS\MAVEN\apache-maven-3.9.0\bin;C:\Program Files\Git\cmd;C:\DEVELOPMENT\platform-tools_r34.0.5-windows (2)\platform-tools;C:\Users\$umeid_ibr\AppData\Local\Microsoft\WindowsApps;C:\Users\$umeid_ibr\AppData\Local\GitHubDesktop\bin;C:\Users\$umeid_ibr\AppData\Local\Programs\Microsoft VS Code\bin;C:\adb;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Go\bin;C:\wamp64\bin\php\php8.2.0;C:\ProgramData\ComposerSetup\bin;C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\$umeid_ibr\AppData\Local\Programs\Python\Launcher\;C:\Users\$umeid_ibr\AppData\Roaming\npm;C:\Users\$umeid_ibr\go\bin;C:\Users\$umeid_ibr\AppData\Roaming\Composer\vendor\bin;C:\Program Files (x86)\Nmap;C:\Users\$umeid_ibr\AppData\Local\Microsoft VS Code\bin;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin
+Check launcher:	C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin\javaw.exe (OK)
+Version string: 1.008.000_351 / 64-Bit (OK)
+Heap -Xms:	Requested 50 MB / 0%, Available: 882 MB, Heap size: 50 MB
+Heap -Xmx:	Requested 90 MB / 0%, Available: 882 MB, Heap size: 90 MB
+Launcher:	C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin\javaw.exe
+Launcher args:	-Xms50m -Xmx90m -Xms512m,  -Xmx1024m -jar "C:\Users\$umeid_ibr\Documents\JAVA_REPOSITORIO\RungeKutta\apo.exe"
+Args length:	109/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\$umeid_ibr\Documents\JAVA_REPOSITORIO\RungeKutta\apo.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\$umeid_ibr\Documents\JAVA_REPOSITORIO\RungeKutta\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.008.000
+Java max ver:	1.011.000
+Substitute:	JAVA_HOME = C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin;C:\DEVELOPMENT\TOOLS\MAVEN\apache-maven-3.9.0\bin;C:\Program Files\Git\cmd;C:\DEVELOPMENT\platform-tools_r34.0.5-windows (2)\platform-tools;C:\Users\$umeid_ibr\AppData\Local\Microsoft\WindowsApps;C:\Users\$umeid_ibr\AppData\Local\GitHubDesktop\bin;C:\Users\$umeid_ibr\AppData\Local\Programs\Microsoft VS Code\bin;C:\adb;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Go\bin;C:\wamp64\bin\php\php8.2.0;C:\ProgramData\ComposerSetup\bin;C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\$umeid_ibr\AppData\Local\Programs\Python\Launcher\;C:\Users\$umeid_ibr\AppData\Roaming\npm;C:\Users\$umeid_ibr\go\bin;C:\Users\$umeid_ibr\AppData\Roaming\Composer\vendor\bin;C:\Program Files (x86)\Nmap;C:\Users\$umeid_ibr\AppData\Local\Microsoft VS Code\bin;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin
+JRE paths:	C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin;C:\DEVELOPMENT\TOOLS\MAVEN\apache-maven-3.9.0\bin;C:\Program Files\Git\cmd;C:\DEVELOPMENT\platform-tools_r34.0.5-windows (2)\platform-tools;C:\Users\$umeid_ibr\AppData\Local\Microsoft\WindowsApps;C:\Users\$umeid_ibr\AppData\Local\GitHubDesktop\bin;C:\Users\$umeid_ibr\AppData\Local\Programs\Microsoft VS Code\bin;C:\adb;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Go\bin;C:\wamp64\bin\php\php8.2.0;C:\ProgramData\ComposerSetup\bin;C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\$umeid_ibr\AppData\Local\Programs\Python\Launcher\;C:\Users\$umeid_ibr\AppData\Roaming\npm;C:\Users\$umeid_ibr\go\bin;C:\Users\$umeid_ibr\AppData\Roaming\Composer\vendor\bin;C:\Program Files (x86)\Nmap;C:\Users\$umeid_ibr\AppData\Local\Microsoft VS Code\bin;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin
+Check launcher:	C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin\javaw.exe (OK)
+Version string: 1.008.000_351 / 64-Bit (OK)
+Heap -Xms:	Requested 50 MB / 0%, Available: 811 MB, Heap size: 50 MB
+Heap -Xmx:	Requested 90 MB / 0%, Available: 811 MB, Heap size: 90 MB
+Launcher:	C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin\javaw.exe
+Launcher args:	-Xms50m -Xmx90m -Xms512m,  -Xmx1024m -jar "C:\Users\$umeid_ibr\Documents\JAVA_REPOSITORIO\RungeKutta\apo.exe"
+Args length:	109/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\$umeid_ibr\Documents\JAVA_REPOSITORIO\RungeKutta\apo.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\$umeid_ibr\Documents\JAVA_REPOSITORIO\RungeKutta\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.008.000
+Java max ver:	1.011.000
+Substitute:	JAVA_HOME = C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin;C:\DEVELOPMENT\TOOLS\MAVEN\apache-maven-3.9.0\bin;C:\Program Files\Git\cmd;C:\DEVELOPMENT\platform-tools_r34.0.5-windows (2)\platform-tools;C:\Users\$umeid_ibr\AppData\Local\Microsoft\WindowsApps;C:\Users\$umeid_ibr\AppData\Local\GitHubDesktop\bin;C:\Users\$umeid_ibr\AppData\Local\Programs\Microsoft VS Code\bin;C:\adb;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Go\bin;C:\wamp64\bin\php\php8.2.0;C:\ProgramData\ComposerSetup\bin;C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\$umeid_ibr\AppData\Local\Programs\Python\Launcher\;C:\Users\$umeid_ibr\AppData\Roaming\npm;C:\Users\$umeid_ibr\go\bin;C:\Users\$umeid_ibr\AppData\Roaming\Composer\vendor\bin;C:\Program Files (x86)\Nmap;C:\Users\$umeid_ibr\AppData\Local\Microsoft VS Code\bin;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin
+JRE paths:	C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin;C:\DEVELOPMENT\TOOLS\MAVEN\apache-maven-3.9.0\bin;C:\Program Files\Git\cmd;C:\DEVELOPMENT\platform-tools_r34.0.5-windows (2)\platform-tools;C:\Users\$umeid_ibr\AppData\Local\Microsoft\WindowsApps;C:\Users\$umeid_ibr\AppData\Local\GitHubDesktop\bin;C:\Users\$umeid_ibr\AppData\Local\Programs\Microsoft VS Code\bin;C:\adb;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Go\bin;C:\wamp64\bin\php\php8.2.0;C:\ProgramData\ComposerSetup\bin;C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\$umeid_ibr\AppData\Local\Programs\Python\Launcher\;C:\Users\$umeid_ibr\AppData\Roaming\npm;C:\Users\$umeid_ibr\go\bin;C:\Users\$umeid_ibr\AppData\Roaming\Composer\vendor\bin;C:\Program Files (x86)\Nmap;C:\Users\$umeid_ibr\AppData\Local\Microsoft VS Code\bin;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin
+Check launcher:	C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin\javaw.exe (OK)
+Version string: 1.008.000_351 / 64-Bit (OK)
+Heap -Xms:	Requested 50 MB / 0%, Available: 681 MB, Heap size: 50 MB
+Heap -Xmx:	Requested 90 MB / 0%, Available: 681 MB, Heap size: 90 MB
+Launcher:	C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin\javaw.exe
+Launcher args:	-Xms50m -Xmx90m -Xms512m,  -Xmx1024m -jar "C:\Users\$umeid_ibr\Documents\JAVA_REPOSITORIO\RungeKutta\apo.exe"
+Args length:	109/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\$umeid_ibr\Documents\JAVA_REPOSITORIO\RungeKutta\apo.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\$umeid_ibr\Documents\JAVA_REPOSITORIO\RungeKutta\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.008.000
+Java max ver:	1.011.000
+Substitute:	JAVA_HOME = C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin;C:\DEVELOPMENT\TOOLS\MAVEN\apache-maven-3.9.0\bin;C:\Program Files\Git\cmd;C:\DEVELOPMENT\platform-tools_r34.0.5-windows (2)\platform-tools;C:\Users\$umeid_ibr\AppData\Local\Microsoft\WindowsApps;C:\Users\$umeid_ibr\AppData\Local\GitHubDesktop\bin;C:\Users\$umeid_ibr\AppData\Local\Programs\Microsoft VS Code\bin;C:\adb;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Go\bin;C:\wamp64\bin\php\php8.2.0;C:\ProgramData\ComposerSetup\bin;C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\$umeid_ibr\AppData\Local\Programs\Python\Launcher\;C:\Users\$umeid_ibr\AppData\Roaming\npm;C:\Users\$umeid_ibr\go\bin;C:\Users\$umeid_ibr\AppData\Roaming\Composer\vendor\bin;C:\Program Files (x86)\Nmap;C:\Users\$umeid_ibr\AppData\Local\Microsoft VS Code\bin;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin
+JRE paths:	C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin;C:\DEVELOPMENT\TOOLS\MAVEN\apache-maven-3.9.0\bin;C:\Program Files\Git\cmd;C:\DEVELOPMENT\platform-tools_r34.0.5-windows (2)\platform-tools;C:\Users\$umeid_ibr\AppData\Local\Microsoft\WindowsApps;C:\Users\$umeid_ibr\AppData\Local\GitHubDesktop\bin;C:\Users\$umeid_ibr\AppData\Local\Programs\Microsoft VS Code\bin;C:\adb;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Go\bin;C:\wamp64\bin\php\php8.2.0;C:\ProgramData\ComposerSetup\bin;C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\$umeid_ibr\AppData\Local\Programs\Python\Launcher\;C:\Users\$umeid_ibr\AppData\Roaming\npm;C:\Users\$umeid_ibr\go\bin;C:\Users\$umeid_ibr\AppData\Roaming\Composer\vendor\bin;C:\Program Files (x86)\Nmap;C:\Users\$umeid_ibr\AppData\Local\Microsoft VS Code\bin;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin
+Check launcher:	C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin\javaw.exe (OK)
+Version string: 1.008.000_351 / 64-Bit (OK)
+Heap -Xms:	Requested 50 MB / 0%, Available: 568 MB, Heap size: 50 MB
+Heap -Xmx:	Requested 90 MB / 0%, Available: 568 MB, Heap size: 90 MB
+Launcher:	C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin\javaw.exe
+Launcher args:	-Xms50m -Xmx90m -Xms512m,  -Xmx1024m -jar "C:\Users\$umeid_ibr\Documents\JAVA_REPOSITORIO\RungeKutta\apo.exe"
+Args length:	109/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\$umeid_ibr\Documents\JAVA_REPOSITORIO\RungeKutta\apo.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\$umeid_ibr\Documents\JAVA_REPOSITORIO\RungeKutta\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.008.000
+Java max ver:	1.011.000
+Substitute:	JAVA_HOME = C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin;C:\DEVELOPMENT\TOOLS\MAVEN\apache-maven-3.9.0\bin;C:\Program Files\Git\cmd;C:\DEVELOPMENT\platform-tools_r34.0.5-windows (2)\platform-tools;C:\Users\$umeid_ibr\AppData\Local\Microsoft\WindowsApps;C:\Users\$umeid_ibr\AppData\Local\GitHubDesktop\bin;C:\Users\$umeid_ibr\AppData\Local\Programs\Microsoft VS Code\bin;C:\adb;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Go\bin;C:\wamp64\bin\php\php8.2.0;C:\ProgramData\ComposerSetup\bin;C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\$umeid_ibr\AppData\Local\Programs\Python\Launcher\;C:\Users\$umeid_ibr\AppData\Roaming\npm;C:\Users\$umeid_ibr\go\bin;C:\Users\$umeid_ibr\AppData\Roaming\Composer\vendor\bin;C:\Program Files (x86)\Nmap;C:\Users\$umeid_ibr\AppData\Local\Microsoft VS Code\bin;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin
+JRE paths:	C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin;C:\DEVELOPMENT\TOOLS\MAVEN\apache-maven-3.9.0\bin;C:\Program Files\Git\cmd;C:\DEVELOPMENT\platform-tools_r34.0.5-windows (2)\platform-tools;C:\Users\$umeid_ibr\AppData\Local\Microsoft\WindowsApps;C:\Users\$umeid_ibr\AppData\Local\GitHubDesktop\bin;C:\Users\$umeid_ibr\AppData\Local\Programs\Microsoft VS Code\bin;C:\adb;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Go\bin;C:\wamp64\bin\php\php8.2.0;C:\ProgramData\ComposerSetup\bin;C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\$umeid_ibr\AppData\Local\Programs\Python\Launcher\;C:\Users\$umeid_ibr\AppData\Roaming\npm;C:\Users\$umeid_ibr\go\bin;C:\Users\$umeid_ibr\AppData\Roaming\Composer\vendor\bin;C:\Program Files (x86)\Nmap;C:\Users\$umeid_ibr\AppData\Local\Microsoft VS Code\bin;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin
+Check launcher:	C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin\javaw.exe (OK)
+Version string: 1.008.000_351 / 64-Bit (OK)
+Heap -Xms:	Requested 50 MB / 0%, Available: 534 MB, Heap size: 50 MB
+Heap -Xmx:	Requested 90 MB / 0%, Available: 534 MB, Heap size: 90 MB
+Launcher:	C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin\javaw.exe
+Launcher args:	-Xms50m -Xmx90m -Xms512m,  -Xmx1024m -jar "C:\Users\$umeid_ibr\Documents\JAVA_REPOSITORIO\RungeKutta\apo.exe"
+Args length:	109/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\$umeid_ibr\Documents\JAVA_REPOSITORIO\RungeKutta\apo.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\$umeid_ibr\Documents\JAVA_REPOSITORIO\RungeKutta\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.008.000
+Java max ver:	1.011.000
+Substitute:	JAVA_HOME = C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin;C:\DEVELOPMENT\TOOLS\MAVEN\apache-maven-3.9.0\bin;C:\Program Files\Git\cmd;C:\DEVELOPMENT\platform-tools_r34.0.5-windows (2)\platform-tools;C:\Users\$umeid_ibr\AppData\Local\Microsoft\WindowsApps;C:\Users\$umeid_ibr\AppData\Local\GitHubDesktop\bin;C:\Users\$umeid_ibr\AppData\Local\Programs\Microsoft VS Code\bin;C:\adb;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Go\bin;C:\wamp64\bin\php\php8.2.0;C:\ProgramData\ComposerSetup\bin;C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\$umeid_ibr\AppData\Local\Programs\Python\Launcher\;C:\Users\$umeid_ibr\AppData\Roaming\npm;C:\Users\$umeid_ibr\go\bin;C:\Users\$umeid_ibr\AppData\Roaming\Composer\vendor\bin;C:\Program Files (x86)\Nmap;C:\Users\$umeid_ibr\AppData\Local\Microsoft VS Code\bin;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin
+JRE paths:	C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin;C:\DEVELOPMENT\TOOLS\MAVEN\apache-maven-3.9.0\bin;C:\Program Files\Git\cmd;C:\DEVELOPMENT\platform-tools_r34.0.5-windows (2)\platform-tools;C:\Users\$umeid_ibr\AppData\Local\Microsoft\WindowsApps;C:\Users\$umeid_ibr\AppData\Local\GitHubDesktop\bin;C:\Users\$umeid_ibr\AppData\Local\Programs\Microsoft VS Code\bin;C:\adb;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Go\bin;C:\wamp64\bin\php\php8.2.0;C:\ProgramData\ComposerSetup\bin;C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\$umeid_ibr\AppData\Local\Programs\Python\Launcher\;C:\Users\$umeid_ibr\AppData\Roaming\npm;C:\Users\$umeid_ibr\go\bin;C:\Users\$umeid_ibr\AppData\Roaming\Composer\vendor\bin;C:\Program Files (x86)\Nmap;C:\Users\$umeid_ibr\AppData\Local\Microsoft VS Code\bin;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin
+Check launcher:	C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin\javaw.exe (OK)
+Version string: 1.008.000_351 / 64-Bit (OK)
+Heap -Xms:	Requested 50 MB / 0%, Available: 594 MB, Heap size: 50 MB
+Heap -Xmx:	Requested 90 MB / 0%, Available: 594 MB, Heap size: 90 MB
+Launcher:	C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin\javaw.exe
+Launcher args:	-Xms50m -Xmx90m -Xms512m,  -Xmx1024m -jar "C:\Users\$umeid_ibr\Documents\JAVA_REPOSITORIO\RungeKutta\apo.exe"
+Args length:	109/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\$umeid_ibr\Documents\JAVA_REPOSITORIO\RungeKutta\apo.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\$umeid_ibr\Documents\JAVA_REPOSITORIO\RungeKutta\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.008.000
+Java max ver:	1.011.000
+Substitute:	JAVA_HOME = C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin;C:\DEVELOPMENT\TOOLS\MAVEN\apache-maven-3.9.0\bin;C:\Program Files\Git\cmd;C:\DEVELOPMENT\platform-tools_r34.0.5-windows (2)\platform-tools;C:\Users\$umeid_ibr\AppData\Local\Microsoft\WindowsApps;C:\Users\$umeid_ibr\AppData\Local\GitHubDesktop\bin;C:\Users\$umeid_ibr\AppData\Local\Programs\Microsoft VS Code\bin;C:\adb;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Go\bin;C:\wamp64\bin\php\php8.2.0;C:\ProgramData\ComposerSetup\bin;C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\$umeid_ibr\AppData\Local\Programs\Python\Launcher\;C:\Users\$umeid_ibr\AppData\Roaming\npm;C:\Users\$umeid_ibr\go\bin;C:\Users\$umeid_ibr\AppData\Roaming\Composer\vendor\bin;C:\Program Files (x86)\Nmap;C:\Users\$umeid_ibr\AppData\Local\Microsoft VS Code\bin;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin
+JRE paths:	C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin;C:\DEVELOPMENT\TOOLS\MAVEN\apache-maven-3.9.0\bin;C:\Program Files\Git\cmd;C:\DEVELOPMENT\platform-tools_r34.0.5-windows (2)\platform-tools;C:\Users\$umeid_ibr\AppData\Local\Microsoft\WindowsApps;C:\Users\$umeid_ibr\AppData\Local\GitHubDesktop\bin;C:\Users\$umeid_ibr\AppData\Local\Programs\Microsoft VS Code\bin;C:\adb;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Go\bin;C:\wamp64\bin\php\php8.2.0;C:\ProgramData\ComposerSetup\bin;C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\$umeid_ibr\AppData\Local\Programs\Python\Launcher\;C:\Users\$umeid_ibr\AppData\Roaming\npm;C:\Users\$umeid_ibr\go\bin;C:\Users\$umeid_ibr\AppData\Roaming\Composer\vendor\bin;C:\Program Files (x86)\Nmap;C:\Users\$umeid_ibr\AppData\Local\Microsoft VS Code\bin;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin
+Check launcher:	C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin\javaw.exe (OK)
+Version string: 1.008.000_351 / 64-Bit (OK)
+Heap -Xms:	Requested 50 MB / 0%, Available: 684 MB, Heap size: 50 MB
+Heap -Xmx:	Requested 90 MB / 0%, Available: 684 MB, Heap size: 90 MB
+Launcher:	C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin\javaw.exe
+Launcher args:	-Xms50m -Xmx90m -Xms512m,  -Xmx1024m -jar "C:\Users\$umeid_ibr\Documents\JAVA_REPOSITORIO\RungeKutta\apo.exe"
+Args length:	109/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\$umeid_ibr\Documents\JAVA_REPOSITORIO\RungeKutta\apo.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\$umeid_ibr\Documents\JAVA_REPOSITORIO\RungeKutta\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.008.000
+Java max ver:	1.011.000
+Substitute:	JAVA_HOME = C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin;C:\DEVELOPMENT\TOOLS\MAVEN\apache-maven-3.9.0\bin;C:\Program Files\Git\cmd;C:\DEVELOPMENT\platform-tools_r34.0.5-windows (2)\platform-tools;C:\Users\$umeid_ibr\AppData\Local\Microsoft\WindowsApps;C:\Users\$umeid_ibr\AppData\Local\GitHubDesktop\bin;C:\Users\$umeid_ibr\AppData\Local\Programs\Microsoft VS Code\bin;C:\adb;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Go\bin;C:\wamp64\bin\php\php8.2.0;C:\ProgramData\ComposerSetup\bin;C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\$umeid_ibr\AppData\Local\Programs\Python\Launcher\;C:\Users\$umeid_ibr\AppData\Roaming\npm;C:\Users\$umeid_ibr\go\bin;C:\Users\$umeid_ibr\AppData\Roaming\Composer\vendor\bin;C:\Program Files (x86)\Nmap;C:\Users\$umeid_ibr\AppData\Local\Microsoft VS Code\bin;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin
+JRE paths:	C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin;C:\DEVELOPMENT\TOOLS\MAVEN\apache-maven-3.9.0\bin;C:\Program Files\Git\cmd;C:\DEVELOPMENT\platform-tools_r34.0.5-windows (2)\platform-tools;C:\Users\$umeid_ibr\AppData\Local\Microsoft\WindowsApps;C:\Users\$umeid_ibr\AppData\Local\GitHubDesktop\bin;C:\Users\$umeid_ibr\AppData\Local\Programs\Microsoft VS Code\bin;C:\adb;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Go\bin;C:\wamp64\bin\php\php8.2.0;C:\ProgramData\ComposerSetup\bin;C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\$umeid_ibr\AppData\Local\Programs\Python\Launcher\;C:\Users\$umeid_ibr\AppData\Roaming\npm;C:\Users\$umeid_ibr\go\bin;C:\Users\$umeid_ibr\AppData\Roaming\Composer\vendor\bin;C:\Program Files (x86)\Nmap;C:\Users\$umeid_ibr\AppData\Local\Microsoft VS Code\bin;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin
+Check launcher:	C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin\javaw.exe (OK)
+Version string: 1.008.000_351 / 64-Bit (OK)
+Heap -Xms:	Requested 50 MB / 0%, Available: 1132 MB, Heap size: 50 MB
+Heap -Xmx:	Requested 90 MB / 0%, Available: 1132 MB, Heap size: 90 MB
+Launcher:	C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin\javaw.exe
+Launcher args:	-Xms50m -Xmx90m -Xms512m,  -Xmx1024m -jar "C:\Users\$umeid_ibr\Documents\JAVA_REPOSITORIO\RungeKutta\apo.exe"
+Args length:	109/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\$umeid_ibr\Documents\JAVA_REPOSITORIO\RungeKutta\apo.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\$umeid_ibr\Documents\JAVA_REPOSITORIO\RungeKutta\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.008.000
+Java max ver:	1.011.000
+Substitute:	JAVA_HOME = C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin;C:\DEVELOPMENT\TOOLS\MAVEN\apache-maven-3.9.0\bin;C:\Program Files\Git\cmd;C:\DEVELOPMENT\platform-tools_r34.0.5-windows (2)\platform-tools;C:\Users\$umeid_ibr\AppData\Local\Microsoft\WindowsApps;C:\Users\$umeid_ibr\AppData\Local\GitHubDesktop\bin;C:\Users\$umeid_ibr\AppData\Local\Programs\Microsoft VS Code\bin;C:\adb;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Go\bin;C:\wamp64\bin\php\php8.2.0;C:\ProgramData\ComposerSetup\bin;C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\$umeid_ibr\AppData\Local\Programs\Python\Launcher\;C:\Users\$umeid_ibr\AppData\Roaming\npm;C:\Users\$umeid_ibr\go\bin;C:\Users\$umeid_ibr\AppData\Roaming\Composer\vendor\bin;C:\Program Files (x86)\Nmap;C:\Users\$umeid_ibr\AppData\Local\Microsoft VS Code\bin;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin
+JRE paths:	C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin;C:\DEVELOPMENT\TOOLS\MAVEN\apache-maven-3.9.0\bin;C:\Program Files\Git\cmd;C:\DEVELOPMENT\platform-tools_r34.0.5-windows (2)\platform-tools;C:\Users\$umeid_ibr\AppData\Local\Microsoft\WindowsApps;C:\Users\$umeid_ibr\AppData\Local\GitHubDesktop\bin;C:\Users\$umeid_ibr\AppData\Local\Programs\Microsoft VS Code\bin;C:\adb;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Go\bin;C:\wamp64\bin\php\php8.2.0;C:\ProgramData\ComposerSetup\bin;C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\$umeid_ibr\AppData\Local\Programs\Python\Launcher\;C:\Users\$umeid_ibr\AppData\Roaming\npm;C:\Users\$umeid_ibr\go\bin;C:\Users\$umeid_ibr\AppData\Roaming\Composer\vendor\bin;C:\Program Files (x86)\Nmap;C:\Users\$umeid_ibr\AppData\Local\Microsoft VS Code\bin;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin
+Check launcher:	C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin\javaw.exe (OK)
+Version string: 1.008.000_351 / 64-Bit (OK)
+Heap -Xms:	Requested 50 MB / 0%, Available: 820 MB, Heap size: 50 MB
+Heap -Xmx:	Requested 90 MB / 0%, Available: 820 MB, Heap size: 90 MB
+Launcher:	C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin\javaw.exe
+Launcher args:	-Xms50m -Xmx90m -Xms512m,  -Xmx1024m -jar "C:\Users\$umeid_ibr\Documents\JAVA_REPOSITORIO\RungeKutta\apo.exe"
+Args length:	109/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\$umeid_ibr\Documents\JAVA_REPOSITORIO\RungeKutta\apo.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\$umeid_ibr\Documents\JAVA_REPOSITORIO\RungeKutta\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.008.000
+Java max ver:	1.011.000
+Substitute:	JAVA_HOME = C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin;C:\DEVELOPMENT\TOOLS\MAVEN\apache-maven-3.9.0\bin;C:\Program Files\Git\cmd;C:\DEVELOPMENT\platform-tools_r34.0.5-windows (2)\platform-tools;C:\Users\$umeid_ibr\AppData\Local\Microsoft\WindowsApps;C:\Users\$umeid_ibr\AppData\Local\GitHubDesktop\bin;C:\Users\$umeid_ibr\AppData\Local\Programs\Microsoft VS Code\bin;C:\adb;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Go\bin;C:\wamp64\bin\php\php8.2.0;C:\ProgramData\ComposerSetup\bin;C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\$umeid_ibr\AppData\Local\Programs\Python\Launcher\;C:\Users\$umeid_ibr\AppData\Roaming\npm;C:\Users\$umeid_ibr\go\bin;C:\Users\$umeid_ibr\AppData\Roaming\Composer\vendor\bin;C:\Program Files (x86)\Nmap;C:\Users\$umeid_ibr\AppData\Local\Microsoft VS Code\bin;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin
+JRE paths:	C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin;C:\DEVELOPMENT\TOOLS\MAVEN\apache-maven-3.9.0\bin;C:\Program Files\Git\cmd;C:\DEVELOPMENT\platform-tools_r34.0.5-windows (2)\platform-tools;C:\Users\$umeid_ibr\AppData\Local\Microsoft\WindowsApps;C:\Users\$umeid_ibr\AppData\Local\GitHubDesktop\bin;C:\Users\$umeid_ibr\AppData\Local\Programs\Microsoft VS Code\bin;C:\adb;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Go\bin;C:\wamp64\bin\php\php8.2.0;C:\ProgramData\ComposerSetup\bin;C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\$umeid_ibr\AppData\Local\Programs\Python\Launcher\;C:\Users\$umeid_ibr\AppData\Roaming\npm;C:\Users\$umeid_ibr\go\bin;C:\Users\$umeid_ibr\AppData\Roaming\Composer\vendor\bin;C:\Program Files (x86)\Nmap;C:\Users\$umeid_ibr\AppData\Local\Microsoft VS Code\bin;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin
+Check launcher:	C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin\javaw.exe (OK)
+Version string: 1.008.000_351 / 64-Bit (OK)
+Heap -Xms:	Requested 50 MB / 0%, Available: 828 MB, Heap size: 50 MB
+Heap -Xmx:	Requested 90 MB / 0%, Available: 828 MB, Heap size: 90 MB
+Launcher:	C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin\javaw.exe
+Launcher args:	-Xms50m -Xmx90m -Xms512m,  -Xmx1024m -jar "C:\Users\$umeid_ibr\Documents\JAVA_REPOSITORIO\RungeKutta\apo.exe"
+Args length:	109/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\$umeid_ibr\Documents\JAVA_REPOSITORIO\RungeKutta\apo.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\$umeid_ibr\Documents\JAVA_REPOSITORIO\RungeKutta\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.008.000
+Java max ver:	1.011.000
+Substitute:	JAVA_HOME = C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin;C:\DEVELOPMENT\TOOLS\MAVEN\apache-maven-3.9.0\bin;C:\Program Files\Git\cmd;C:\DEVELOPMENT\platform-tools_r34.0.5-windows (2)\platform-tools;C:\Users\$umeid_ibr\AppData\Local\Microsoft\WindowsApps;C:\Users\$umeid_ibr\AppData\Local\GitHubDesktop\bin;C:\Users\$umeid_ibr\AppData\Local\Programs\Microsoft VS Code\bin;C:\adb;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Go\bin;C:\wamp64\bin\php\php8.2.0;C:\ProgramData\ComposerSetup\bin;C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\$umeid_ibr\AppData\Local\Programs\Python\Launcher\;C:\Users\$umeid_ibr\AppData\Roaming\npm;C:\Users\$umeid_ibr\go\bin;C:\Users\$umeid_ibr\AppData\Roaming\Composer\vendor\bin;C:\Program Files (x86)\Nmap;C:\Users\$umeid_ibr\AppData\Local\Microsoft VS Code\bin;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin
+JRE paths:	C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin;C:\DEVELOPMENT\TOOLS\MAVEN\apache-maven-3.9.0\bin;C:\Program Files\Git\cmd;C:\DEVELOPMENT\platform-tools_r34.0.5-windows (2)\platform-tools;C:\Users\$umeid_ibr\AppData\Local\Microsoft\WindowsApps;C:\Users\$umeid_ibr\AppData\Local\GitHubDesktop\bin;C:\Users\$umeid_ibr\AppData\Local\Programs\Microsoft VS Code\bin;C:\adb;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Go\bin;C:\wamp64\bin\php\php8.2.0;C:\ProgramData\ComposerSetup\bin;C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\$umeid_ibr\AppData\Local\Programs\Python\Launcher\;C:\Users\$umeid_ibr\AppData\Roaming\npm;C:\Users\$umeid_ibr\go\bin;C:\Users\$umeid_ibr\AppData\Roaming\Composer\vendor\bin;C:\Program Files (x86)\Nmap;C:\Users\$umeid_ibr\AppData\Local\Microsoft VS Code\bin;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin
+Check launcher:	C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin\javaw.exe (OK)
+Version string: 1.008.000_351 / 64-Bit (OK)
+Heap -Xms:	Requested 50 MB / 0%, Available: 814 MB, Heap size: 50 MB
+Heap -Xmx:	Requested 90 MB / 0%, Available: 814 MB, Heap size: 90 MB
+Launcher:	C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin\javaw.exe
+Launcher args:	-Xms50m -Xmx90m -Xms512m,  -Xmx1024m -jar "C:\Users\$umeid_ibr\Documents\JAVA_REPOSITORIO\RungeKutta\apo.exe"
+Args length:	109/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\$umeid_ibr\Documents\JAVA_REPOSITORIO\RungeKutta\apo.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\$umeid_ibr\Documents\JAVA_REPOSITORIO\RungeKutta\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.008.000
+Java max ver:	1.011.000
+Substitute:	JAVA_HOME = C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin;C:\DEVELOPMENT\TOOLS\MAVEN\apache-maven-3.9.0\bin;C:\Program Files\Git\cmd;C:\DEVELOPMENT\platform-tools_r34.0.5-windows (2)\platform-tools;C:\Users\$umeid_ibr\AppData\Local\Microsoft\WindowsApps;C:\Users\$umeid_ibr\AppData\Local\GitHubDesktop\bin;C:\Users\$umeid_ibr\AppData\Local\Programs\Microsoft VS Code\bin;C:\adb;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Go\bin;C:\wamp64\bin\php\php8.2.0;C:\ProgramData\ComposerSetup\bin;C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\$umeid_ibr\AppData\Local\Programs\Python\Launcher\;C:\Users\$umeid_ibr\AppData\Roaming\npm;C:\Users\$umeid_ibr\go\bin;C:\Users\$umeid_ibr\AppData\Roaming\Composer\vendor\bin;C:\Program Files (x86)\Nmap;C:\Users\$umeid_ibr\AppData\Local\Microsoft VS Code\bin;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin
+JRE paths:	C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin;C:\DEVELOPMENT\TOOLS\MAVEN\apache-maven-3.9.0\bin;C:\Program Files\Git\cmd;C:\DEVELOPMENT\platform-tools_r34.0.5-windows (2)\platform-tools;C:\Users\$umeid_ibr\AppData\Local\Microsoft\WindowsApps;C:\Users\$umeid_ibr\AppData\Local\GitHubDesktop\bin;C:\Users\$umeid_ibr\AppData\Local\Programs\Microsoft VS Code\bin;C:\adb;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Go\bin;C:\wamp64\bin\php\php8.2.0;C:\ProgramData\ComposerSetup\bin;C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\$umeid_ibr\AppData\Local\Programs\Python\Launcher\;C:\Users\$umeid_ibr\AppData\Roaming\npm;C:\Users\$umeid_ibr\go\bin;C:\Users\$umeid_ibr\AppData\Roaming\Composer\vendor\bin;C:\Program Files (x86)\Nmap;C:\Users\$umeid_ibr\AppData\Local\Microsoft VS Code\bin;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin
+Check launcher:	C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin\javaw.exe (OK)
+Version string: 1.008.000_351 / 64-Bit (OK)
+Heap -Xms:	Requested 50 MB / 0%, Available: 955 MB, Heap size: 50 MB
+Heap -Xmx:	Requested 90 MB / 0%, Available: 955 MB, Heap size: 90 MB
+Launcher:	C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin\javaw.exe
+Launcher args:	-Xms50m -Xmx90m -Xms512m,  -Xmx1024m -jar "C:\Users\$umeid_ibr\Documents\JAVA_REPOSITORIO\RungeKutta\apo.exe"
+Args length:	109/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\$umeid_ibr\Documents\JAVA_REPOSITORIO\RungeKutta\apo.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\$umeid_ibr\Documents\JAVA_REPOSITORIO\RungeKutta\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.008.000
+Java max ver:	1.011.000
+Substitute:	JAVA_HOME = C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin;C:\DEVELOPMENT\TOOLS\MAVEN\apache-maven-3.9.0\bin;C:\Program Files\Git\cmd;C:\DEVELOPMENT\platform-tools_r34.0.5-windows (2)\platform-tools;C:\Users\$umeid_ibr\AppData\Local\Microsoft\WindowsApps;C:\Users\$umeid_ibr\AppData\Local\GitHubDesktop\bin;C:\Users\$umeid_ibr\AppData\Local\Programs\Microsoft VS Code\bin;C:\adb;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Go\bin;C:\wamp64\bin\php\php8.2.0;C:\ProgramData\ComposerSetup\bin;C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\$umeid_ibr\AppData\Local\Programs\Python\Launcher\;C:\Users\$umeid_ibr\AppData\Roaming\npm;C:\Users\$umeid_ibr\go\bin;C:\Users\$umeid_ibr\AppData\Roaming\Composer\vendor\bin;C:\Program Files (x86)\Nmap;C:\Users\$umeid_ibr\AppData\Local\Microsoft VS Code\bin;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin
+JRE paths:	C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin;C:\DEVELOPMENT\TOOLS\MAVEN\apache-maven-3.9.0\bin;C:\Program Files\Git\cmd;C:\DEVELOPMENT\platform-tools_r34.0.5-windows (2)\platform-tools;C:\Users\$umeid_ibr\AppData\Local\Microsoft\WindowsApps;C:\Users\$umeid_ibr\AppData\Local\GitHubDesktop\bin;C:\Users\$umeid_ibr\AppData\Local\Programs\Microsoft VS Code\bin;C:\adb;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Go\bin;C:\wamp64\bin\php\php8.2.0;C:\ProgramData\ComposerSetup\bin;C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\$umeid_ibr\AppData\Local\Programs\Python\Launcher\;C:\Users\$umeid_ibr\AppData\Roaming\npm;C:\Users\$umeid_ibr\go\bin;C:\Users\$umeid_ibr\AppData\Roaming\Composer\vendor\bin;C:\Program Files (x86)\Nmap;C:\Users\$umeid_ibr\AppData\Local\Microsoft VS Code\bin;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin
+Check launcher:	C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin\javaw.exe (OK)
+Version string: 1.008.000_351 / 64-Bit (OK)
+Heap -Xms:	Requested 50 MB / 0%, Available: 1599 MB, Heap size: 50 MB
+Heap -Xmx:	Requested 90 MB / 0%, Available: 1599 MB, Heap size: 90 MB
+Launcher:	C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin\javaw.exe
+Launcher args:	-Xms50m -Xmx90m -Xms512m,  -Xmx1024m -jar "C:\Users\$umeid_ibr\Documents\JAVA_REPOSITORIO\RungeKutta\apo.exe"
+Args length:	109/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\$umeid_ibr\Documents\JAVA_REPOSITORIO\RungeKutta\apo.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\$umeid_ibr\Documents\JAVA_REPOSITORIO\RungeKutta\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.008.000
+Java max ver:	1.011.000
+Substitute:	JAVA_HOME = C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin;C:\DEVELOPMENT\TOOLS\MAVEN\apache-maven-3.9.0\bin;C:\Program Files\Git\cmd;C:\DEVELOPMENT\platform-tools_r34.0.5-windows (2)\platform-tools;C:\Users\$umeid_ibr\AppData\Local\Microsoft\WindowsApps;C:\Users\$umeid_ibr\AppData\Local\GitHubDesktop\bin;C:\Users\$umeid_ibr\AppData\Local\Programs\Microsoft VS Code\bin;C:\adb;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Go\bin;C:\wamp64\bin\php\php8.2.0;C:\ProgramData\ComposerSetup\bin;C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\$umeid_ibr\AppData\Local\Programs\Python\Launcher\;C:\Users\$umeid_ibr\AppData\Roaming\npm;C:\Users\$umeid_ibr\go\bin;C:\Users\$umeid_ibr\AppData\Roaming\Composer\vendor\bin;C:\Program Files (x86)\Nmap;C:\Users\$umeid_ibr\AppData\Local\Microsoft VS Code\bin;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin
+JRE paths:	C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin;C:\DEVELOPMENT\TOOLS\MAVEN\apache-maven-3.9.0\bin;C:\Program Files\Git\cmd;C:\DEVELOPMENT\platform-tools_r34.0.5-windows (2)\platform-tools;C:\Users\$umeid_ibr\AppData\Local\Microsoft\WindowsApps;C:\Users\$umeid_ibr\AppData\Local\GitHubDesktop\bin;C:\Users\$umeid_ibr\AppData\Local\Programs\Microsoft VS Code\bin;C:\adb;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Go\bin;C:\wamp64\bin\php\php8.2.0;C:\ProgramData\ComposerSetup\bin;C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\$umeid_ibr\AppData\Local\Programs\Python\Launcher\;C:\Users\$umeid_ibr\AppData\Roaming\npm;C:\Users\$umeid_ibr\go\bin;C:\Users\$umeid_ibr\AppData\Roaming\Composer\vendor\bin;C:\Program Files (x86)\Nmap;C:\Users\$umeid_ibr\AppData\Local\Microsoft VS Code\bin;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin
+Check launcher:	C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin\javaw.exe (OK)
+Version string: 1.008.000_351 / 64-Bit (OK)
+Heap -Xms:	Requested 50 MB / 0%, Available: 1100 MB, Heap size: 50 MB
+Heap -Xmx:	Requested 90 MB / 0%, Available: 1100 MB, Heap size: 90 MB
+Launcher:	C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin\javaw.exe
+Launcher args:	-Xms50m -Xmx90m -Xms512m,  -Xmx1024m -jar "C:\Users\$umeid_ibr\Documents\JAVA_REPOSITORIO\RungeKutta\apo.exe"
+Args length:	109/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\$umeid_ibr\Documents\JAVA_REPOSITORIO\RungeKutta\apo.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\$umeid_ibr\Documents\JAVA_REPOSITORIO\RungeKutta\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.008.000
+Java max ver:	1.011.000
+Substitute:	JAVA_HOME = C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin;C:\DEVELOPMENT\TOOLS\MAVEN\apache-maven-3.9.0\bin;C:\Program Files\Git\cmd;C:\DEVELOPMENT\platform-tools_r34.0.5-windows (2)\platform-tools;C:\Users\$umeid_ibr\AppData\Local\Microsoft\WindowsApps;C:\Users\$umeid_ibr\AppData\Local\GitHubDesktop\bin;C:\Users\$umeid_ibr\AppData\Local\Programs\Microsoft VS Code\bin;C:\adb;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Go\bin;C:\wamp64\bin\php\php8.2.0;C:\ProgramData\ComposerSetup\bin;C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\$umeid_ibr\AppData\Local\Programs\Python\Launcher\;C:\Users\$umeid_ibr\AppData\Roaming\npm;C:\Users\$umeid_ibr\go\bin;C:\Users\$umeid_ibr\AppData\Roaming\Composer\vendor\bin;C:\Program Files (x86)\Nmap;C:\Users\$umeid_ibr\AppData\Local\Microsoft VS Code\bin;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin
+JRE paths:	C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin;C:\DEVELOPMENT\TOOLS\MAVEN\apache-maven-3.9.0\bin;C:\Program Files\Git\cmd;C:\DEVELOPMENT\platform-tools_r34.0.5-windows (2)\platform-tools;C:\Users\$umeid_ibr\AppData\Local\Microsoft\WindowsApps;C:\Users\$umeid_ibr\AppData\Local\GitHubDesktop\bin;C:\Users\$umeid_ibr\AppData\Local\Programs\Microsoft VS Code\bin;C:\adb;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Go\bin;C:\wamp64\bin\php\php8.2.0;C:\ProgramData\ComposerSetup\bin;C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\$umeid_ibr\AppData\Local\Programs\Python\Launcher\;C:\Users\$umeid_ibr\AppData\Roaming\npm;C:\Users\$umeid_ibr\go\bin;C:\Users\$umeid_ibr\AppData\Roaming\Composer\vendor\bin;C:\Program Files (x86)\Nmap;C:\Users\$umeid_ibr\AppData\Local\Microsoft VS Code\bin;C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin
+Check launcher:	C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin\javaw.exe (OK)
+Version string: 1.008.000_351 / 64-Bit (OK)
+Heap -Xms:	Requested 50 MB / 0%, Available: 1550 MB, Heap size: 50 MB
+Heap -Xmx:	Requested 90 MB / 0%, Available: 1550 MB, Heap size: 90 MB
+Launcher:	C:\DEVELOPMENT\TOOLS\JAVA\JAVA 8\bin\javaw.exe
+Launcher args:	-Xms50m -Xmx90m -Xms512m,  -Xmx1024m -jar "C:\Users\$umeid_ibr\Documents\JAVA_REPOSITORIO\RungeKutta\apo.exe"
+Args length:	109/32768 chars
+Exit code:	0

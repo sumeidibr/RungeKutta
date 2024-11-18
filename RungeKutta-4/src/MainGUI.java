@@ -211,10 +211,10 @@ public class MainGUI {
         double x = x0;
         double y = y0;
         while (x <= xn) {
-            double k1 = h * g.deriv(x, y);
-            double k2 = h * g.deriv(x + 0.5 * h, y + 0.5 * k1);
-            double k3 = h * g.deriv(x + 0.5 * h, y + 0.5 * k2);
-            double k4 = h * g.deriv(x + h, y + k3);
+            double k1 =  g.deriv(x, y);
+            double k2 =  g.deriv(x + (h/2), y + (h/2) * k1);
+            double k3 = g.deriv(x + (h/2) * h, y + (h/2) * k2);
+            double k4 =  g.deriv(x + h, y + h * k3);
 
             // Adicionar os resultados à tabela
             model.addRow(new Object[]{String.format("%.2f", x), String.format("%.5f", y),
